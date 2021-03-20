@@ -9,7 +9,7 @@ docutils==0.16
 future==0.18.2
 idna==2.9
 imagesize==1.2.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.15.1
 livereload==2.6.1
 lunr==0.5.8
