@@ -15,7 +15,7 @@ Sensors and actuators
     Ultrasonic_Distance_sensor.md
     White_LED.md
     WS2812B.md
-    Motor.md
+..    Motor.md
     Button.md
     Flame_sensor.md
     Servo.md

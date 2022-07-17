@@ -14,6 +14,7 @@ Quick Start Guide
     :maxdepth: 1
 
     smartcity/index
+    ..smartHomeIoT/index
     Sensors_and_actuators/index
     smarthouse/index
     smartplant/index

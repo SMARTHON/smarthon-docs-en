@@ -89,9 +89,9 @@ Place two clips to position that want to detect water flowing
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_bPw0ViLrR6Jm](https://makecode.microbit.org/_bPw0ViLrR6Jm)<BR><P>
+MakeCode: [https://makecode.microbit.org/_bPw0ViLrR6Jm](https://makecode.microbit.org/_Uh3ggjiKRT3X)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_bPw0ViLrR6Jm" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/#pub:_Uh3ggjiKRT3X" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## Results
