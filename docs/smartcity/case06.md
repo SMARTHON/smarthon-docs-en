@@ -112,9 +112,9 @@ Select your channel > “API Keys” ，copy the API key as follows:<BR><P>
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_TMyYxL8Re1du](https://makecode.microbit.org/_TMyYxL8Re1du)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_TMyYxL8Re1du" width="100%" height="500" frameborder="0"></iframe>
+MakeCode: <a href="https://makecode.microbit.org/_TMyYxL8Re1du" target="_blank">https://makecode.microbit.org/_TMyYxL8Re1du</a>
+
+![auto_fit](images/Case6/Case6_full_program.png)<P>
 
 
 ## Result

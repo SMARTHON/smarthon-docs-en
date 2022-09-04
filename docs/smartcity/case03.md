@@ -69,9 +69,8 @@ Connect Multi-color LED to P1 port of IoT:bit<BR><P>
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_F2x6j9UaM6wf](https://makecode.microbit.org/_F2x6j9UaM6wf)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_F2x6j9UaM6wf" width="100%" height="500" frameborder="0"></iframe>
+MakeCode: <a href="https://makecode.microbit.org/_F2x6j9UaM6wf" target="_blank">https://makecode.microbit.org/_F2x6j9UaM6wf</a>
+![pic_90](images/Case3/Case3_full_program.png)<P>
 
 
 ## Result
