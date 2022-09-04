@@ -84,9 +84,10 @@ Drag `Pause` to wait 500ms and set `distance2` to `get distance unit cm trig P14
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_0Y0h5MWPde4A](https://makecode.microbit.org/_0Y0h5MWPde4A)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_0Y0h5MWPde4A" width="100%" height="500" frameborder="0"></iframe>
+MakeCode: <a href="https://makecode.microbit.org/_0Y0h5MWPde4A" target="_blank">https://makecode.microbit.org/_0Y0h5MWPde4A</a>
+
+![auto_fit](images/Case5/Case5_full_program.png)<P>
+
 
 
 ## Results

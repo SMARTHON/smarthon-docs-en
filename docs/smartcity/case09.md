@@ -88,9 +88,9 @@ G (black)|G (brown)
 ![pic_80](images/Case9/Case9_p5.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_YhvAsP3HCgY6](https://makecode.microbit.org/_YhvAsP3HCgY6)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_YhvAsP3HCgY6" width="100%" height="500" frameborder="0"></iframe>
+MakeCode:<a href="https://makecode.microbit.org/_YhvAsP3HCgY6" target="_blank">https://makecode.microbit.org/_YhvAsP3HCgY6</a>
+
+![pic_100](images/Case9/Case9_full_program.png)<P>
 
  
 ## IoT (App Inventor)

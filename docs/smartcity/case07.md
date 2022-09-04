@@ -92,9 +92,8 @@ Go to “My services” > “Webhooks”, select “Documentation” . Copy your
 ![auto_fit](images/Case7/Case7_p5.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_H4uU8R3716xj](https://makecode.microbit.org/_H4uU8R3716xj)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_H4uU8R3716xj" width="100%" height="500" frameborder="0"></iframe>
+MakeCode: <a href="https://makecode.microbit.org/_H4uU8R3716xj" target="_blank">https://makecode.microbit.org/_H4uU8R3716xj</a>
+![auto_fit](images/Case7/Case7_full_program.png)<P>
 
 
 ## Result 
