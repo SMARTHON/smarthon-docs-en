@@ -11,11 +11,11 @@ Make a flame monitoring alert system by detecting the existence of strong fire n
 ## Background
 <HR>
 
-Nowadays, fire accidents always happen when the homeowner is sleeping or outside the home. It is good to install an IOT system in the kitchen or living room to alert the user on his/her phone when he/she is sleeping or in the office so that he/she will wake up and rush out of the home to prevent a terrible accident from happening. 
+Nowadays, fire accidents always happen when the homeowner is sleeping or outside the home. It is good to install an IOT system in the kitchen or living room to alert the user on his/her phone when he/she is sleeping or in the office so that he/she will wake up and rush out from the home to prevent a terrible accident happened. 
 
 <BR><P>
-<span id="subtitle">Kitchen Safety Flame Monitoring Alert principle</span><BR><P>
-By installing a fire sensor in the area, the system will trigger an alarm and send a IFTTT notification to the house owner when there is fire detected in the sensor’s sight.
+<span id="subtitle">Kitchen Safety Flame Monitoring Alert Principle</span><BR><P>
+By installing a flame sensor in the area, the system will trigger an alarm and blink the red LED to alert the home owner inside the home when there is fire detected. At the same time, it will send a IFTTT notification to the house owner's phone so that can alert user when he/she is sleeping or outside the home.
 <BR><P>
 
 
@@ -25,6 +25,89 @@ By installing a fire sensor in the area, the system will trigger an alarm and se
 <HR>
 
 ![pic_90](images/Case11/Case11_parts.png)<P>
+ 
+## Assembly step
+<HR>
+
+<span id="subtitle">Step 1</span><BR><P>
+Build the base model of big style model.<BR><P>
+![pic_90](images/Case11/Case11_ass1.png)<P>
+
+<span id="subtitle">Step 2</span><BR><P>
+To build a kitchen, Insert the E3 & E1 cardboard on A cardboard, align with holes at A and B2 & B1 cardboard.<BR><P>
+![pic_90](images/Case11/Case11_ass2.png)<P>
+
+<span id="subtitle">Step 3</span><BR><P>
+Use M4 screws and nuts to install the flame sensor to B2 cardboard.<BR><P>
+
+![pic_90](images/Case11/Case11_ass3.png)<P>
+
+<span id="subtitle">Step 4</span><BR><P>
+Use M4 screws and nuts to install the multi-color LED to B2 cardboard<BR><P>
+
+![pic_90](images/Case11/Case11_ass4.png)<P>
+
+<span id="subtitle">Step 5</span><BR><P>
+To build a stove, put the L2 * 2 to L1 from the top to bottom.<BR><P>
+
+![pic_90](images/Case11/Case11_ass5.png)<P>
+
+<span id="subtitle">Step 6</span><BR><P>
+Insert L1 into the L2 according to the arrow.<BR><P>
+
+![pic_90](images/Case11/Case11_ass6.png)<P>
+
+<span id="subtitle">Step 7</span><BR><P>
+Insert L1 into the L2 according to the arrow. Tighten inserting the end of L1 into the end of the hole L1.<BR><P>
+
+![pic_90](images/Case11/Case11_ass7.png)<P>
+
+<span id="subtitle">Step 8</span><BR><P>
+Stick the paper that drawing your favorite cooking stove look.<BR><P>
+
+![pic_90](images/Case11/Case11_ass8.png)<P>
+
+<span id="subtitle">Step 9</span><BR><P>
+Completed <BR><P>
+
+![pic_90](images/Case11/Case11_ass9.png)<P>
+
+
+<span id="subtitle">Step 10</span><BR><P>
+Place the cooking stove model to correct place.<BR><P>
+
+![pic_90](images/Case11/Case11_ass10.png)<P>
+
+<span id="subtitle">Step 11</span><BR><P>
+To build a fridge, attach light sensor onto G1 model using M4 \* 10mm screws and nuts. And the connecting wire could be bended to the hole below it.<BR><P>
+
+![pic_90](images/Case11/Case11_ass11.png)<P>
+
+<span id="subtitle">Step 12</span><BR><P>
+Fold and bend the G1 modelaccordinglyand put G3 model into the G1 model, align with the holes.<BR><P>
+
+![pic_90](images/Case11/Case11_ass12.png)<P>
+
+<span id="subtitle">Step 13</span><BR><P>
+Put G2 model onto the G1 model, align with the holes.<BR><P>
+
+![pic_90](images/Case11/Case11_ass13.png)<P>
+
+<span id="subtitle">Step 14</span><BR><P>
+The fridge completed!<BR><P>
+
+![pic_90](images/Case11/Case11_ass14.png)<P>
+
+<span id="subtitle">Step 15</span><BR><P>
+Place the fridge model to correct place.<BR><P>
+
+![pic_90](images/Case11/Case11_ass15.png)<P>
+
+<span id="subtitle">Step 16</span><BR><P>
+Completed! <BR><P>
+
+![pic_90](images/Case11/Case11_ass16.png)<P>
+
 
 
 ## Hardware connect
@@ -117,9 +200,9 @@ In the THEN field, search for the “email” and use it to replace the “notif
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_PaX5qwPeRa0e](https://makecode.microbit.org/_PaX5qwPeRa0e)<BR><P>
+MakeCode: [https://makecode.microbit.org/_959awf824d8P](https://makecode.microbit.org/v4#editor:_959awf824d8P)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_PaX5qwPeRa0e" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/v4#pub:_959awf824d8P" width="100%" height="500" frameborder="0"></iframe>
 
 
 

@@ -6,23 +6,67 @@ Level: ![level](images/level4.png)
 ## Goal
 <HR>
 
-Make a smart colorful light that will change colors upon remote control.
+Make a smart colorful light that will change colors upon remote control app.
 
 
 ## Background
 <HR>
 
 <span id="subtitle">What is Smart Colorful Light?</span><BR><P>
-A smart colorful light is a multi-color LED light that allows switching color of light between various colors, usually being able to be requested through remote control, for example a mobile app. It is a good device for adjusting the room light according to needs, like when sleeping or switching moods.
+A smart colorful light is a multi-color LED light that allows switching color of light, usually being requested through remote control, for example a mobile app. The user can adjust the color based on different needs. For instance, the user might need dark light when he/she is sleeping, baby feel comfortable when the room in warm color, and user may pick a good color when he/she is reading the book.
 <BR><P>
-<span id="subtitle">Smart Colorful Light operation</span><BR><P>
-A smart light can be controlled through wireless communication, in this case a mobile app. Upon different colors chose from the application, respective commands will be sent through Internet and thus reaching the light, and the light will react and change the color as requested.<BR><P>
+<span id="subtitle">Smart Colorful Light Principle</span><BR><P>
+The micro:bit will connect to the Internet to get the device ID. In the mobile app, it will send the different color command name to the micro:bit. In the micro:bit program, when it receives the command, it will show the corresponding color based on the command name.<BR><P>
 
+![pic](images/Case12/Case12_flowchart.png)<P>
 
 ## Part List
 <HR>
 
 ![pic_90](images/Case12/Case12_parts.png)<P>
+ 
+## Assembly step
+<HR>
+
+<span id="subtitle">Step 1</span><BR><P>
+Build the base model of big style model. <BR><P>
+![pic_90](images/Case12/Case12_ass1.png)<P>
+
+<span id="subtitle">Step 2</span><BR><P>
+Insert the E3 & E1 cardboard on A cardboard, align with holes at A and B4 & B3 cardboard.
+<BR><P>
+![pic_90](images/Case12/Case12_ass2.png)<P>
+
+<span id="subtitle">Step 3</span><BR><P>
+Use M4 screw and nuts to install the Multi-color LED to B4 cardboard
+<BR><P>
+![pic_90](images/Case12/Case12_ass3.png)<P>
+
+<span id="subtitle">Step 4</span><BR><P>
+To build a Bed. Put J2 model onto the J1 model, then put together all the cardboard parts (J1-J3).
+<BR><P>
+![pic_90](images/Case12/Case12_ass4.png)<P>
+
+<span id="subtitle">Step 5</span><BR><P>
+The bed completed!
+<BR><P>
+![pic_100](images/Case12/Case12_ass5.png)<P>
+
+<span id="subtitle">Step 6</span><BR><P>
+Place the bed at the correct position
+<BR><P>
+![pic_90](images/Case12/Case12_ass6.png)<P>
+
+<span id="subtitle">Step 7</span><BR><P>
+Stick the decoration board (H Model) to here
+<BR><P>
+![pic_90](images/Case12/Case12_ass7.png)<P>
+
+<span id="subtitle">Step 8</span><BR><P>
+Completed!
+<BR><P>
+![pic_90](images/Case12/Case12_ass8.png)<P>
+
 
 
 ## Hardware connect
@@ -58,9 +102,9 @@ A smart light can be controlled through wireless communication, in this case a m
 ![auto_fit](images/Case12/Case12_p3.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_bruDF46qs5zY](https://makecode.microbit.org/_bruDF46qs5zY)<BR><P>
+MakeCode: [https://makecode.microbit.org/_bJpLi2T3uK3C](https://makecode.microbit.org/v4#editor:_bJpLi2T3uK3C)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_bruDF46qs5zY" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/v4#pub:_bJpLi2T3uK3C" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## IoT (App inventor 2)

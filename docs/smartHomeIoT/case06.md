@@ -34,6 +34,40 @@ The home owner set the password (A=2 & B=3), the door will be opened.
 
 ![pic_90](images/Case6/Case6_parts.png)<P>
 
+## Assembly step
+<HR>
+
+<span id="subtitle">Step 1</span><P>
+Build the base model of open style model<BR><P>
+
+![pic_90](images/Case6/Case6_ass1.png)<P>
+<span id="subtitle">Step 2</span><P>
+Use M4 screws to install the button module on B1 cardboard, take place near the door<BR><P>
+
+![pic_90](images/Case6/Case6_ass2.png)<P>
+![pic_90](images/Case6/Case6_ass3.png)<P>
+
+<span id="subtitle">Step 3</span><P>
+Use M3 screws to install the L shape stand on B1 cardboard, take place back the door<BR><P>
+	
+![pic_90](images/Case6/Case6_ass4.png)<P>
+![pic_90](images/Case6/Case6_ass5.png)<P>
+
+<span id="subtitle">Step 4</span><P>
+Use sharp screw M2 to install the servo 180 on cardboard A.<BR><P>
+	
+![pic_90](images/Case6/Case6_ass6.png)<P>
+
+<span id="subtitle">Step 5</span><P>
+Connect the L Shape Stand and servo 180 to the door by hook(made by Paper Clip).<BR><P>
+	
+![pic_90](images/Case6/Case6_ass7.png)<P>
+
+<span id="subtitle">Step 6</span><P>
+Completed<BR><P>
+	
+![pic_90](images/Case6/Case6_ass8.png)<P>
+
 
 
 ## Hardware connect

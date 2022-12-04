@@ -2,5 +2,15 @@ Version 1.0 (2022-09-04)
 1. Implemented basic functions
 2. Updated full solution fix
 
-Version 1.1 (2022-10-18)
-1. Release SmartHomeIoT
+Version 1.1
+Merge assembly_step and background (phase 1) to develop branch
+-Assembly and part list 1-5 (OK)
+-Background 1-8 (OK) draw.io 9-11 (OK)
+
+Version 1.2 (2022-12-04)
+Merge assembly_step_2 and background_2, program (phase 1) to develop branch
+-Assembly and part list 6-13 (OK)
+-Background 9-13 (OK), case 14 (partially finished)
+-Program 9,10,12,13 (update to v4 pxt, change ssid/pwd to smarthon/12345678)
+
+

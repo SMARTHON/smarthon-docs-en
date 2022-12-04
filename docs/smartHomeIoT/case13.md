@@ -1,4 +1,4 @@
-# IoT Case 13: Alexa Voice Control Fan
+# Adv IoT Case 13: Alexa Voice Control Fan
 
 Level: ![level](images/level5.png)
 
@@ -6,18 +6,27 @@ Level: ![level](images/level5.png)
 ## Goal
 <HR>
 
-Make a remotely controlled by using Amazon Alexa service.
+Make a remotely controlled by using Amazon Alexa voice control.
 
 
 ## Background
 <HR>
 
 <span id="subtitle">What is Alexa voice control fan?</span><BR><P>
-Alexa voice control fan is a fan that is connected to internet and can be woken up by voice command.<BR><P>
+Alexa voice control fan is a fan that is connected to internet and can be woken up by voice command. The user can define different voice command to control fan in different speed or mode. In this case, the user can turn on and off from the voice command by using Alexa.<BR><P>
 
-<span id="subtitle">Alexa voice control fan principle
+<span id="subtitle">Alexa voice control fan Principle
 </span><BR><P>
-By using Smarthon IoT:bit extension on IFTTT platform, commands can be pre-set such that when a specific phrase is said to Alexa it will send the commands automatically through the internet to the fan and trigger on or off actions.<BR><P>
+In the program, the micro:bit connect to WIFI and get the device ID. By setting the received command (turn_on_fan and turn_off_fan), the motor will turn be turned on and off.
+
+In the Smarthon IoT:bit extension on IFTTT platform, commands can be pre-set such that when a specific phrase is said to Alexa it will send the commands  through the internet to the fan and trigger on or off actions.<BR><P>
+![pic](images/Case13/Case13_flowchart.png)<P>
+
+<span id="subtitle">Know more: What is an Amazon Alexa Echo Dot? Google Home is also a alternative.</span><P>
+Amazon Alexa, is a virtual assistant technology largely based on a Polish speech synthesiser. It was first used in the Amazon Echo smart speaker and the Echo Dot. It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, sports, and other real-time information, such as news. Alexa can also control several smart devices using itself as a home automation system.
+
+Nowadays, to make a home smarter, Amazon Alexa or Google Home is a central control device at home so that the user can use the voice command to control different electronics easily.
+![pic](images/Case13/Case13_alexa.png)<P>
 
 
 ## Part List
@@ -25,6 +34,54 @@ By using Smarthon IoT:bit extension on IFTTT platform, commands can be pre-set s
 
 ![pic_90](images/Case13/Case13_parts.png)<P>
  
+## Assembly step
+<HR>
+
+<span id="subtitle">Step 1</span><BR><P>
+Build the base model of big style model. <BR><P>
+![pic_90](images/Case13/Case13_ass1.png)<P>
+
+<span id="subtitle">Step 2</span><BR><P>
+Insert the E1 cardboard on A cardboard, align with the holes on A and B3.<BR><P>
+![pic_90](images/Case13/Case13_ass2.png)<P>
+
+<span id="subtitle">Step 3</span><BR><P>
+Attach motor fan to the F model using M4 \* 10mm screws and nuts. And the connecting wire could be bended to the hole next to it.<BR><P>
+![pic_90](images/Case13/Case13_ass3.png)<P>
+
+<span id="subtitle">Step 4</span><BR><P>
+To build a fan stand, put F model into the B3, B4 model.<BR><P>
+![pic_90](images/Case13/Case13_ass4.png)<P>
+
+<span id="subtitle">Step 5</span><BR><P>
+To build a sofa model. Put the K3 model to the two sides of K1 model.<BR><P>
+![pic_90](images/Case13/Case13_ass5.png)<P>
+
+<span id="subtitle">Step 6</span><BR><P>
+Put K2 model all together to the cardboard parts (K1-K3).<BR><P>
+![pic_90](images/Case13/Case13_ass6.png)<P>
+
+
+<span id="subtitle">Step 7</span><BR><P>
+The sofa completed!<BR><P>
+![pic_90](images/Case13/Case13_ass7.png)<P>
+
+<span id="subtitle">Step 8</span><BR><P>
+Place the sofa at the suitable position.<BR><P>
+![pic_90](images/Case13/Case13_ass8.png)<P>
+
+<span id="subtitle">Step 9</span><BR><P>
+Stick the Decoration Display Model (H cardboard) on B3.<BR><P>
+![pic_90](images/Case13/Case13_ass9.png)<P>
+
+<span id="subtitle">Step 10</span><BR><P>
+Place the Alexa device at the suitable position.<BR><P>
+![pic_90](images/Case13/Case13_ass10.png)<P>
+
+<span id="subtitle">Step 11</span><BR><P>
+Completed!<BR><P>
+![pic_90](images/Case13/Case13_ass11.png)<P>
+
 
 
 ## Hardware connect
@@ -64,9 +121,9 @@ By using Smarthon IoT:bit extension on IFTTT platform, commands can be pre-set s
 ![pic_80](images/Case13/Case13_p4.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_eW2fDXbpAFU3](https://makecode.microbit.org/_eW2fDXbpAFU3)<BR><P>
+MakeCode: [https://makecode.microbit.org/_HRzCxhELKDMH](https://makecode.microbit.org/v4#editor:_HRzCxhELKDMH)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_eW2fDXbpAFU3" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/v4#pub:_HRzCxhELKDMH" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## IoT (Alexa, Cloud Control, IFTTT)

@@ -6,22 +6,65 @@ Level: ![level](images/level4.png)
 ## Goal
 <HR>
 
-Make a digital clock that performs a normal clock function with auto-synchronizing time, and alert at specific time.<BR><P>
+Make a digital clock that performs a normal clock function with auto-synchronizing Internet time, and alert at specific time.<BR><P>
 
 ## Background
 <HR>
 
-<span id="subtitle">What is smart digital clock?</span><BR><P>
-Smart digital clock is a clock that shows time as accurate as close to atomic clock by connecting to the Internet.<BR><P>
-<span id="subtitle">Smart digital clock principle</span><BR><P>
-NTP protocol ensures devices synchronize their time with an accurate time provider. With connecting to the Internet the digital clock can even show the time close to atomic clock in millisecond .<BR><P>
-
+<span id="subtitle">What is Smart Digital Clock?</span><BR><P>
+Smart digital clock is a clock that shows time as accurate as to atomic clock by connecting to the Internet.<BR><P>
+<span id="subtitle">Smart Digital Clock Principle</span><BR><P>
+NTP protocol ensures devices synchronize their time with an accurate time internet provider. With connecting to the Internet, the digital clock can show the time close to atomic clock in millisecond .<BR><P>
+In the program, it will get the internet time every 0.5 second to show the time on the OLED. When the time is arrived to specific time (e.g. 06:00:00), it will turn on the alert. Otherwise, it will turn of the buzzer. When the user pressed the button A, the alarm can be closed.
 ![pic](images/Case9/Case9_flowchart.png)<P>
 
 ## Part List
 <HR>
 
 ![pic_90](images/Case9/Case9_parts.png)<P>
+
+## Assembly step
+<HR>
+<span id="subtitle">Step 1</span><BR><P>
+Build the base model of big style model<BR><P>
+
+![pic_90](images/Case9/Case9_ass1.png)<P>
+
+<span id="subtitle">Step 2</span><BR><P>
+Let’s build a bed room to install the digital clock. Insert the E3 cardboard on A cardboard, align with holes at A and B3 cardboard<BR><P>
+	
+![pic_90](images/Case9/Case9_ass2.png)<P>
+<span id="subtitle">Step 3</span><BR><P>
+Use M2 screws and nuts to install the OLED display to E3 cardboard<BR><P>
+	
+![pic_90](images/Case9/Case9_ass3.png)<P>	
+![pic_90](images/Case9/Case9_ass4.png)<P>
+
+<span id="subtitle">Step 4</span><BR><P>
+Insert the E4 cardboard on A cardboard, align with holes at A and B4 cardboard<BR><P>
+	
+![auto_fit](images/Case9/Case9_ass5.png)<P>
+
+<span id="subtitle">Step 5</span><BR><P>
+To build a Bed. Put J2 model onto the J1 model, then put together all the cardboard parts (J1-J3)<BR><P>
+	
+![pic_90](images/Case9/Case9_ass6.png)<P>
+
+<span id="subtitle">Step 6</span><BR><P>
+The bed completed<BR><P>
+	
+![pic_90](images/Case9/Case9_ass7.png)<P>
+
+
+<span id="subtitle">Step 7</span><BR><P>
+Place the bed at the correct position<BR><P>
+	
+![pic_90](images/Case9/Case9_ass8.png)<P>
+
+<span id="subtitle">Step 8</span><BR><P>
+completed<BR><P>
+	
+![pic_90](images/Case9/Case9_ass9.png)<P>
 
 
 ## Hardware connect
@@ -86,9 +129,9 @@ NTP protocol ensures devices synchronize their time with an accurate time provid
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_cpeR8e32PDzi](https://makecode.microbit.org/_cpeR8e32PDzi)<BR><P>
+MakeCode: [https://makecode.microbit.org/_ExgH3FKJWT2b](https://makecode.microbit.org/v4#editor:_ExgH3FKJWT2b)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_cpeR8e32PDzi
+<iframe src="https://makecode.microbit.org/v4#pub:_ExgH3FKJWT2b
 " width="100%" height="500" frameborder="0"></iframe>
 
 ## Result

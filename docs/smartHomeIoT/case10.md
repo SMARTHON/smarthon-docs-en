@@ -14,17 +14,71 @@ Make a home health data monitoring system by collecting data from the sensors in
 <span id="subtitle">What is home health data monitoring system?</span><BR><P>
 Health monitoring is the concept of tracking the conditions of different parameters inside the user’s house. For indoor, the important parameters to analyze the home comfortability are temperature, humidity, pm2.5, CO2 and VOC. In this system, we can base on temperature and humidity to measure the comfortability of the home. With the too high temperature or too low humidity will also affect the comfortability.<BR><P>
 
-<span id="subtitle">Home health monitoring system operation</span><BR><P>
-In this scenario, integrated temperature and humidity sensor DHT11 is used. It can track and send back the data collected to the main control board for further analysis, constant display and cloud server storage. Also the IAQ Score analyst can help to estimate the environment status.<BR><P>
+<span id="subtitle">Home health monitoring system Principle</span><BR><P>
+In this case, integrated temperature and humidity sensor DHT11 is used. It will keep track of room temperature, humidity and IAQ value, display to the OLED and upload to the Thingspeak platform for further analysis.<BR><P>
 
 
 ![pic](images/Case10/Case10_flowchart.png)<P>
+
+<span id="subtitle">Know more: What is an IAQ?</span><P>
+Indoor Air Quality (IAQ) refers to the air quality within and around buildings and structures, especially as it relates to the health and comfort of building occupants. Understanding and controlling common pollutants indoors can help reduce your risk of indoor health concerns. The important parameters are temperature, humidity, pm2.5, CO2 and VOC.
+
+<span id="subtitle">Know more: How to determine the IAQ Score?</span><P>
+In Smarthon Smart Home IoT Maker Kit, we use 2 parameters (temperature and humidity) to determine the comfortability (IAQ Score) of the room. Below is the chart to show most comfortable value of temperature (20-22) with humidity (40-70). 
+![auto_fit](images/Case10/Case10_iaq_chart.jpg)<P>
+Therefore, better range of temperature will have higher score of IAQ; Better range of humidity will have higher score of IAQ.
+Thus, the average value of IAQ score from temperature and humidity can determine the comfortability of the room. In other words, for the used of block on pxt from Smarthon, it will return the average value of temperature and humidity IAQ score.
 
 ## Part List
 <HR>
 
 ![pic_90](images/Case10/Case10_parts.png)<P>
 
+## Assembly step
+<HR>
+
+<span id="subtitle">Step 1</span><BR><P>
+Build the base model of open style model<P>
+
+![pic_90](images/Case10/Case10_ass1.png)<P>
+
+<span id="subtitle">Step 2</span><BR><P>
+ Insert the E4 & E1 cardboard on A cardboard, align with holes at A and B2 & B3 cardboard<P>
+
+![pic_90](images/Case10/Case10_ass2.png)<P>
+
+<span id="subtitle">Step 3</span><BR><P>
+Use M4 screws and nuts to install the OLED display to E4 cardboard<P>
+
+![pic_90](images/Case10/Case10_ass3.png)<P>
+![pic_90](images/Case10/Case10_ass4.png)<P>
+
+<span id="subtitle">Step 4</span><BR><P>
+Build a sofa model. Firstly, insert the K3 to the two sides of K1<P>
+
+![pic_80](images/Case10/Case10_ass5.png)<P>
+
+
+<span id="subtitle">Step 5</span><BR><P>
+Build a sofa model. Firstly, insert the K3 to the two sides of K1.<P>
+
+![pic_80](images/Case10/Case10_ass6.png)<P>
+
+
+<span id="subtitle">Step 6</span><BR><P>
+Second, Insert K2 to the end of the board K3<P>
+
+![pic_80](images/Case10/Case10_ass7.png)<P>
+
+<span id="subtitle">Step 7</span><BR><P>
+Plase the sofa model at suitable position<P>
+
+![pic_80](images/Case10/Case10_ass8.png)<P>
+
+<span id="subtitle">Step 8</span><BR><P>
+Completed<P>
+
+![pic_80](images/Case10/Case10_ass9.png)<P>
 
 
 ## Hardware connect
@@ -116,9 +170,9 @@ In this scenario, integrated temperature and humidity sensor DHT11 is used. It c
 
 <span id="subtitle">Full Solution<BR><P>
 
-MakeCode: [https://makecode.microbit.org/_4eieTk2TUda1](https://makecode.microbit.org/_4eieTk2TUda1)<BR><P>
+MakeCode: [https://makecode.microbit.org/_Vw1ebpiE2CsR](https://makecode.microbit.org/v4#editor:_Vw1ebpiE2CsR)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_4eieTk2TUda1" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/v4#pub:_Vw1ebpiE2CsR" width="100%" height="500" frameborder="0"></iframe>
 
 
 
