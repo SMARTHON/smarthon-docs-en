@@ -103,46 +103,52 @@ When this Micro:bit receives the message from the another Micro:bit (Remote), it
 <HR>
 
 <span id="subtitle">Step 1</span><P>
-Build the base model of big style model<BR><P>
+In this case, build the “Big Style Model” as a home base.
+<BR><P>
 ![pic_90](images/Case7/Case7_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><P>
-Insert the E1 cardboard on A, align with A and B3 holes<BR><P>
+To build a living room, put model E1 onto model A, align with the holes at model A and B3.
+<BR><P>
 
 ![pic_90](images/Case7/Case7_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><P>
-Use M4 screws and nuts to install the Multi-Color LED to B3 cardboard<BR><P>
+Attach the multi-color LED to the model B3 using M4\*10mm screws and nuts. And the connecting wire should be bended to the hole nearby.
+<BR><P>
 
 ![pic_90](images/Case7/Case7_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><P>
-Build a sofa model. Firstly, insert the K3 to the two sides of K1<BR><P>
+To build a sofa model. Put the model K3 to the two sides of model K1.
+<BR><P>
 
 ![pic_90](images/Case7/Case7_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Second, Insert K2 to the end of the board K3<BR><P>
+Put model K2 all together to the cardboard parts (K1-K3).<BR><P>
 
 ![pic_90](images/Case7/Case7_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><P>
-Sofa building completed!<BR><P>
+The sofa completed!<BR><P>
 
 ![pic_90](images/Case7/Case7_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><P>
-Place the sofa at the room <BR><P>
+Place the sofa at the living room.<BR><P>
 
 ![pic_90](images/Case7/Case7_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><P>
-Stick the Decoration Display Model (H cardboard) on B3<BR><P>
+Put the model H as a decroration display on model B3.
+<BR><P>
 
 ![pic_90](images/Case7/Case7_ass8.png)<P>
 
 <span id="subtitle">Step 9</span><P>
-Completed<BR><P>
+Assembly completed!
+<BR><P>
 
 ![pic_90](images/Case7/Case7_ass9.png)<P>
 

@@ -38,35 +38,40 @@ The home owner set the password (A=2 & B=3), the door will be opened.
 <HR>
 
 <span id="subtitle">Step 1</span><P>
-Build the base model of open style model<BR><P>
-
+In this case, build the “Open Style Model” as a home base.
+<BR><P>
 ![pic_90](images/Case6/Case6_ass1.png)<P>
+
 <span id="subtitle">Step 2</span><P>
-Use M4 screws to install the button module on B1 cardboard, take place near the door<BR><P>
+To build a smart door, attach button module onto Model B1 using M4 * 10mm screws and nuts, align with the holes nearby the door on model B1. And the connecting wire should be bended to the hole above.
+<BR><P>
 
 ![pic_90](images/Case6/Case6_ass2.png)<P>
-![pic_90](images/Case6/Case6_ass3.png)<P>
 
 <span id="subtitle">Step 3</span><P>
-Use M3 screws to install the L shape stand on B1 cardboard, take place back the door<BR><P>
+Attach the L-shape stand to the back of Model B1 using M3 * 10mm screws and nuts.
+<BR><P>
 	
-![pic_90](images/Case6/Case6_ass4.png)<P>
-![pic_90](images/Case6/Case6_ass5.png)<P>
+![pic_90](images/Case6/Case6_ass3.png)<P>
+
 
 <span id="subtitle">Step 4</span><P>
-Use sharp screw M2 to install the servo 180 on cardboard A.<BR><P>
+Install 180ᵒ servo by using M2 * 7.5mm sharp screw and then attach it to model A.
+<BR><P>
 	
-![pic_90](images/Case6/Case6_ass6.png)<P>
+![pic_90](images/Case6/Case6_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Connect the L Shape Stand and servo 180 to the door by hook(made by Paper Clip).<BR><P>
+Use a paper clip as a hook to connect the L shape stand and 180ᵒ servo.
+<BR><P>
 	
-![pic_90](images/Case6/Case6_ass7.png)<P>
+![pic_90](images/Case6/Case6_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><P>
-Completed<BR><P>
+Assembly Completed!
+<BR><P>
 	
-![pic_90](images/Case6/Case6_ass8.png)<P>
+![pic_90](images/Case6/Case6_ass6.png)<P>
 
 
 

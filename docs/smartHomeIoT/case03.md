@@ -30,39 +30,52 @@ The temperature and humidity sensor installed in the house will scan for surroun
 <HR>
 
 <span id="subtitle">Step1</span><P>
-Insert E4 cardboard to A and B3 cardboard to build a wall <BR><P>
+To start with, build the Big House Model. <BR><P>
 ![pic_90](images/Case3/Case3_ass1.png)<P>
 <span id="subtitle">Step 2</span><P>
-Use M4 screws to install the Temperature and humidity sensor (DHT11) to E4 cardboard
+To build a small living room at the right side in the home, put Model E4 onto A model as a wall.
 <BR><P>
 ![pic](images/Case3/Case3_ass2.png)<P>
 <span id="subtitle">Step 3</span><P>
-Use M2 screws to install OLED display to E4 cardboard
+Attach the Temperature and humidity sensor to Model E4 using M4 * 10mm screws and nuts.
 <BR><P>
 ![pic](images/Case3/Case3_ass3.png)<P>
 <span id="subtitle">Step 4</span><P>
-Use M4 screws to install motor module to F cardboard
+Attach OLED Display to the Model E4 using M2 * 10mm screws and nuts.
 <BR><P>
 ![pic](images/Case3/Case3_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Insert F cardboard to B2 and B3 cardboard to build a fans stand
+Attach motor fan to the Model F using M4 * 10mm screws and nuts. And the connecting wire could be bended to the hole next to it.
 <BR><P>
 ![pic](images/Case3/Case3_ass5.png)<P>
 <span id="subtitle">Step 6</span><P>
-Build a table with I cardboard
+To build a fan stand, put Model F into the B3, B4 model.
 <BR><P>
 ![pic](images/Case3/Case3_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><P>
-Place at the room corner
+To build a table, put the Model I1 onto the model I2.
 <BR><P>
 ![pic](images/Case3/Case3_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><P>
-Completed
+The table completed!
 <BR><P>
 ![pic](images/Case3/Case3_ass8.png)<P>
+
+<span id="subtitle">Step 9</span><P>
+Place the table at the living room.
+<BR><P>
+![pic](images/Case3/Case3_ass9.png)<P>
+
+<span id="subtitle">Step 10</span><P>
+Assembly Completed!
+<BR><P>
+![pic](images/Case3/Case3_ass10.png)<P>
+
+
+
 
 
 ## Hardware connect

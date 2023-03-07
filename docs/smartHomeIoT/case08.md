@@ -35,62 +35,64 @@ In programming part, there is a "flag" concept to be used in this case. It can c
 ## Assembly step
 <HR>
 <span id="subtitle">Step 1</span><P>
-Build the base model of big style model<BR><P>
+In this case, build the “Big Style Model” as a home base.<BR><P>
 
 ![auto_fit](images/Case8/Case8_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><P>
-Attach the curtain rod to 360 servo.You can use the screwdriver to assist<BR><P>
+To make a curtain. Attach the curtain rod to 360ᵒ servo by using the screwdriver to assist.
+<BR><P>
 
 ![pic_90](images/Case8/Case8_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><P>
-Cut the Curtain paper to 8cm\*8cm<BR><P>
+Cut the curtain paper into a 8cm\*8cm square.<BR><P>
 
 ![pic_90](images/Case8/Case8_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><P>
-Add the glue to stick the curtain rod with the curtain paper<BR><P>
+Stick the cutted paper on the curtain rod by glue.
+<BR><P>
 
 ![pic_90](images/Case8/Case8_ass4.png)<P>
 
 
 <span id="subtitle">Step 5</span><P>
-Make the Blu Tack to long shape by hand<BR><P>
+Shape the blu tack into a recteangle by hand.<BR><P>
 
 ![pic_90](images/Case8/Case8_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><P>
 
-Stick the long Blu Tack to the bottom of paper curtain<BR><P>
+Stick the shaped blu tack at the bottom of the paper curtain.
+<BR><P>
 
 ![pic_90](images/Case8/Case8_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><P>
 
-Use M2 screw to install the servo to the placeholder on cardboard B1 and check the place of curtain<BR><P>
+Attach the completed curtain (servo) onto Model B1 using M2 \* 10mm screws and nuts.
+<BR><P>
 
 ![pic_90](images/Case8/Case8_ass7.png)<P>
 
-![pic_90](images/Case8/Case8_ass8.png)<P>
 
 <span id="subtitle">Step 8</span><P>
+Close the house by model C1 and C2.<BR><P>
 
-Close the house by C1 cardboard and C2 cardboard<BR><P>
-
-![pic_90](images/Case8/Case8_ass9.png)<P>
+![pic_90](images/Case8/Case8_ass8.png)<P>
 
 <span id="subtitle">Step 9</span><P>
 
-Install the light sensor on the C1 cardboard<BR><P>
+Attach the light sensor onto model C2 using M4 \* 10mm screws and nuts.<BR><P>
 
-![pic_90](images/Case8/Case8_ass10.png)<P>
+![pic_90](images/Case8/Case8_ass9.png)<P>
 
 <span id="subtitle">Step 10</span><P>
+Assembly Completed!
+<BR><P>
 
-Completed<BR><P>
-
-![pic_90](images/Case8/Case8_ass11.png)<P>
+![pic_90](images/Case8/Case8_ass10.png)<P>
 
 
 	

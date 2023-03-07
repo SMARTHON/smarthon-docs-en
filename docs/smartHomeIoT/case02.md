@@ -28,25 +28,45 @@ Motion sensor and distance sensor is implemented over the house and monitor the 
 <HR>
 
 <span id="subtitle">Step 1</span><BR><P>
-For extra room installation, Insert the model D1, D3 on model B1, align with the holes on model A.
+To start with, build the Big House Model.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass1_new.png)<P>
 <span id="subtitle">Step 2</span><BR><P>
-Attach the distance sensor to D3 model with M4 * 10mm screws and nuts.
+For extra room installation, Insert the model D1, D3 on model B1, align with the holes on model A.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass2_new.png)<P>
 <span id="subtitle">Step 3</span><BR><P>
-Close the room by putting model D2 and D4 on to it.
+Attach the distance sensor to the Model D3 using M4 * 10mm screws and nuts.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass3_new.png)<P>
 <span id="subtitle">Step 4</span><BR><P>
-Attach motion sensor on B1 model (near the door) with M4\*10mm screws and nuts.
+Put the model D2 on the holes of model A, and then insert it to model D1 and D3.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass4_new.png)<P>
+<span id="subtitle">Step 5</span><BR><P>
+Add the 4 rubber bends to the model D2 so that the house will not loose.
+<BR><P>
+![auto_fit](images/Case2/Case2_ass5_new.png)<P>
 <span id="subtitle">Step 6</span><BR><P>
-Completed
+Insert the model D4 to the model B1, and then attach it to the model D1, D2 and D3.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass6_new.png)<P>
+<span id="subtitle">Step 7</span><BR><P>
+Completed.
+<BR><P>
+![auto_fit](images/Case2/Case2_ass7_new.png)<P>
+<span id="subtitle">Step 8</span><BR><P>
+Attach motion sensor to the model B1 (near the door) using M4 * 10mm screws and nuts. And the connecting wire should be bended to the hole above it.
+<BR><P>
+![auto_fit](images/Case2/Case2_ass8_new.png)<P>
+<span id="subtitle">Step 9</span><BR><P>
+Assembly Completed!
+<BR><P>
+![auto_fit](images/Case2/Case2_ass9_new.png)<P>
+
+
+
+
 
 ## Hardware connect
 <HR>

@@ -21,50 +21,52 @@ In the program, it will get the internet time every 0.5 second to show the time 
 ## Part List
 <HR>
 
-![pic_90](images/Case9/Case9_parts.png)<P>
+![pic_90](images/Case9/Case9_parts1.png)<P>
 
 ## Assembly step
 <HR>
 <span id="subtitle">Step 1</span><BR><P>
-Build the base model of big style model<BR><P>
+In this case, build the “Big Style Model” as a home base.<BR><P>
 
 ![pic_90](images/Case9/Case9_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><BR><P>
-Let’s build a bed room to install the digital clock. Insert the E3 cardboard on A cardboard, align with holes at A and B3 cardboard<BR><P>
+Let’s build a bed room to install a digital clock. Put the model E3 onto cardboard A, align with the holes at model A and B3.<BR><P>
 	
 ![pic_90](images/Case9/Case9_ass2.png)<P>
 <span id="subtitle">Step 3</span><BR><P>
-Use M2 screws and nuts to install the OLED display to E3 cardboard<BR><P>
+Attach the OLED display as a digital clock to the model E3 using M2 \* 10mm screws and nuts.
+<BR><P>
 	
 ![pic_90](images/Case9/Case9_ass3.png)<P>	
-![pic_90](images/Case9/Case9_ass4.png)<P>
+
 
 <span id="subtitle">Step 4</span><BR><P>
-Insert the E4 cardboard on A cardboard, align with holes at A and B4 cardboard<BR><P>
+Put the model E4 onto cardboard A, align with the holes at model A and B4.
+<BR><P>
 	
-![auto_fit](images/Case9/Case9_ass5.png)<P>
+![auto_fit](images/Case9/Case9_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><BR><P>
-To build a Bed. Put J2 model onto the J1 model, then put together all the cardboard parts (J1-J3)<BR><P>
+To build a bed. Put model J2 onto the model J1, then put together all the cardboard parts (J1-J3).<BR><P>
+	
+![pic_90](images/Case9/Case9_ass5.png)<P>
+
+<span id="subtitle">Step 6</span><BR><P>
+The bed completed!<BR><P>
 	
 ![pic_90](images/Case9/Case9_ass6.png)<P>
 
-<span id="subtitle">Step 6</span><BR><P>
-The bed completed<BR><P>
+
+<span id="subtitle">Step 7</span><BR><P>
+Place the bed next to the digital clock at the room.<BR><P>
 	
 ![pic_90](images/Case9/Case9_ass7.png)<P>
 
-
-<span id="subtitle">Step 7</span><BR><P>
-Place the bed at the correct position<BR><P>
+<span id="subtitle">Step 8</span><BR><P>
+Assembly Completed!<BR><P>
 	
 ![pic_90](images/Case9/Case9_ass8.png)<P>
-
-<span id="subtitle">Step 8</span><BR><P>
-completed<BR><P>
-	
-![pic_90](images/Case9/Case9_ass9.png)<P>
 
 
 ## Hardware connect

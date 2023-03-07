@@ -31,45 +31,50 @@ When the door is opened, the room light will go into the fridge (light sensor va
 <HR>
 
 <span id="subtitle">Step 1</span><P>
-Use M4 screws and nuts to install the light sensor to G1 cardboard 
+In this case, “Big House Model” is used as a home base to start with.
 <BR><P>
 ![pic](images/Case5/Case5_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><P>
-Fold and bend the G1 cardboard correctly, insert the G3 cardboard to G1 cardboard, align with the holes
+Let’s build a kitchen. Put Model E3 onto the Model A and B4, align with the holes at it. Put Model E1 onto the Model A, align with the holes at Model A and B3.
 <BR><P>
 ![pic](images/Case5/Case5_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><P>
-Insert the G2 cardboard on the G1 cardboard, align with the holes
+Completed.
 <BR><P>
 ![pic](images/Case5/Case5_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><P>
-Completed
+To build a fridge, attach light sensor onto model G1 using M4 * 10mm screws and nuts. And the connecting wire could be bended to the hole below it.
 <BR><P>
 ![pic](images/Case5/Case5_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Insert the E3 cardboard on A cardboard, align with the holes on A and B4
+Fold and bend the Model G1 accordinglyand put Model G3 into the Model G1, align with the holes.
 <BR><P>
 ![pic](images/Case5/Case5_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><P>
-Insert the E1 cardboard on A cardboard, align with the holes on A and B3
+Put Model G2 onto the Model G1, align with the holes.
 <BR><P>
 ![pic](images/Case5/Case5_ass6.png)<P>
 
 
 <span id="subtitle">Step 7</span><P>
- Place the fridge at corner
+The fridge completed!
 <BR><P>
 ![pic](images/Case5/Case5_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><P>
-Completed
+Place the fridge at the corner.
 <BR><P>
 ![pic](images/Case5/Case5_ass8.png)<P>
+
+<span id="subtitle">Step 9</span><P>
+Assembly Completed!
+![pic](images/Case5/Case5_ass9.png)<P>
+
 
 
 ## Hardware connect

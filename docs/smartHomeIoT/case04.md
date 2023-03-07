@@ -43,38 +43,38 @@ However, how to let the current pass through? It is related to the material of t
 <HR>
 
 <span id="subtitle">Step 1</span><P>
-In this case, we selected “Open Style Model” as home base to start with.
+In this case, “Open Style Model” is used as a home base to start with.
 <BR><P>
 ![pic](images/Case4/Case4_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><P>
-Insert E2 cardboard on A cardboard, align with holes at A, B2
+Let’s build a toilet room. Put Model E2 onto model A, align with the holes at it.
 <BR><P>
 
 ![pic](images/Case4/Case4_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><P>
-Insert E1 cardboard on A cardboard, align with holes at A,B3
+Put Model E1 onto model A, align with the holes at model A, B3.
 <BR><P>
 ![pic](images/Case4/Case4_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><P>
-Find a plastic water bottle and cut it to become a water tank, cut the bottle at red line
+ Find a plastic bottle and cut it to become a water tank. Cut the bottle at red line as shown.
 <BR><P>
 ![pic](images/Case4/Case4_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Place the water tank in the toilet
+Place the water tank in the toilet.
 <BR><P>
 ![pic](images/Case4/Case4_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><P>
-Place two clips to position that want to detect water flowing
+Place two crocodile clips on the both sides of the water tank to detect water flowing.
 <BR><P>
 ![pic](images/Case4/Case4_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><P>
-Completed
+Assembly Completed!
 <BR><P>
 ![pic](images/Case4/Case4_ass7.png)<P>
 

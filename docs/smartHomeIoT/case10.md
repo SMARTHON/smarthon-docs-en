@@ -38,47 +38,49 @@ Thus, the average value of IAQ score from temperature and humidity can determine
 <HR>
 
 <span id="subtitle">Step 1</span><BR><P>
-Build the base model of open style model<P>
+In this case, “Open Style Model” is used as a home base to start with.
+<P>
 
 ![pic_90](images/Case10/Case10_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><BR><P>
- Insert the E4 & E1 cardboard on A cardboard, align with holes at A and B2 & B3 cardboard<P>
+Put the model E4 & E1 onto model A, align with holes at model A, B2 and B3.
+<P>
 
 ![pic_90](images/Case10/Case10_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><BR><P>
-Use M4 screws and nuts to install the OLED display to E4 cardboard<P>
+Attach the OLED display onto model E4 using M4 * 10mm screws and nuts.<P>
 
 ![pic_90](images/Case10/Case10_ass3.png)<P>
-![pic_90](images/Case10/Case10_ass4.png)<P>
+
 
 <span id="subtitle">Step 4</span><BR><P>
-Build a sofa model. Firstly, insert the K3 to the two sides of K1<P>
+Attach the DHT11 temperature and humidity sensor onto model E4 using M2 * 10mm screws and nuts. And the connecting wire should be bended to the hole below it.<P>
+
+![pic_80](images/Case10/Case10_ass4.png)<P>
+
+
+<span id="subtitle">Step 5</span><BR><P>
+To build a sofa model. Put the model K3 to the two sides of model K1.<P>
 
 ![pic_80](images/Case10/Case10_ass5.png)<P>
 
 
-<span id="subtitle">Step 5</span><BR><P>
-Build a sofa model. Firstly, insert the K3 to the two sides of K1.<P>
+<span id="subtitle">Step 6</span><BR><P>
+Put model K2 all together to the cardboard parts (K1-K3).<P>
 
 ![pic_80](images/Case10/Case10_ass6.png)<P>
 
-
-<span id="subtitle">Step 6</span><BR><P>
-Second, Insert K2 to the end of the board K3<P>
+<span id="subtitle">Step 7</span><BR><P>
+Plase the sofa model behind the model E4.<P>
 
 ![pic_80](images/Case10/Case10_ass7.png)<P>
 
-<span id="subtitle">Step 7</span><BR><P>
-Plase the sofa model at suitable position<P>
+<span id="subtitle">Step 8</span><BR><P>
+Assembly Completed!<P>
 
 ![pic_80](images/Case10/Case10_ass8.png)<P>
-
-<span id="subtitle">Step 8</span><BR><P>
-Completed<P>
-
-![pic_80](images/Case10/Case10_ass9.png)<P>
 
 
 ## Hardware connect

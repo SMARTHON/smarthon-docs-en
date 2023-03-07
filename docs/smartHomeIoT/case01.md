@@ -30,29 +30,32 @@ Motion sensor is used to detect the presence of human activity in the room. If t
 <HR>
 
 <span id="subtitle">Step 1</span><BR><P>
- Pick one corner of the house. In this example, we pick the left upper corner, install the 2 walls (E1 & E2) to build a small room.<BR><P>
+Step 1. To start with, build the Big House Model.<BR><P>
 ![auto_fit](images/Case1/Case1_ass1_new.png)<P>
 <span id="subtitle">Step 2</span><BR><P>
-Use M4 screw to Install the motion sensor on B3 model<BR><P>
+ Pick one corner of the house. In this example, we pick the left upper corner, install the 2 walls (E1 & E2) to build a small room.<BR><P>
 ![auto_fit](images/Case1/Case1_ass2_new.png)<P>
 <span id="subtitle">Step 3</span><BR><P>
-Use M4 screw to install the multi-color LED on wall<BR><P>
+Attach the PIR Motion Sensor to model B3 using M4 * 10mm screws and nuts.<BR><P>
 ![auto_fit](images/Case1/Case1_ass3_new.png)<P>
 <span id="subtitle">Step 4</span><BR><P>
-Completed the installation<BR><P>
+Attach the Multi-color LED to the model B3 using M4 * 10mm screws and nuts.<BR><P>
 ![auto_fit](images/Case1/Case1_ass4_new.png)<P>
 <span id="subtitle">Step 5</span><BR><P>
-Build the bed with J1,J2,J3,J4 cardboard<BR><P>
+Installation completed!<BR><P>
 ![auto_fit](images/Case1/Case1_ass5_new.png)<P>
 <span id="subtitle">Step 6</span><BR><P>
-Bed building completed<BR><P>
+To build a Bed. Put model J2 onto the model J1, then put together all the cardboard parts (J1-J3).<BR><P>
 ![auto_fit](images/Case1/Case1_ass6_new.png)<P>
 <span id="subtitle">Step 7</span><BR><P>
-Place the bed inside the bedroom<BR><P>
+The bed completed!<BR><P>
 ![auto_fit](images/Case1/Case1_ass7_new.png)<P>
 <span id="subtitle">Step 8</span><BR><P>
-Completed<BR><P>
+Place the bed inside the bedroom. <BR><P>
 ![auto_fit](images/Case1/Case1_ass8_new.png)<P>
+<span id="subtitle">Step 9</span><BR><P>
+Assembly completed!<BR><P>
+![auto_fit](images/Case1/Case1_ass9_new.png)<P>
 
 
 ## Hardware connect
@@ -85,9 +88,10 @@ Completed<BR><P>
 ![pic_90](images/Case1/Case1_p2.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_MopaifFb42v5](https://makecode.microbit.org/_MopaifFb42v5)<BR><P>
+MakeCode: <a href="https://makecode.microbit.org/_MopaifFb42v5" target="_blank">https://makecode.microbit.org/_MopaifFb42v5</a><BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_MopaifFb42v5" width="100%" height="500" frameborder="0" sandbox="allow-same-origin allow-scripts"></iframe>
+
+<iframe src="https://makecode.microbit.org/#pub:_MopaifFb42v5" width="100%" height="500" frameborder="0"></iframe>
 
 <P>
 

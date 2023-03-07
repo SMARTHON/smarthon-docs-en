@@ -30,66 +30,72 @@ By installing a flame sensor in the area, the system will trigger an alarm and b
 <HR>
 
 <span id="subtitle">Step 1</span><BR><P>
-Build the base model of big style model.<BR><P>
+In this case, build the “Big Style Model” as a home base.<BR><P>
 ![pic_90](images/Case11/Case11_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><BR><P>
-To build a kitchen, Insert the E3 & E1 cardboard on A cardboard, align with holes at A and B2 & B1 cardboard.<BR><P>
+To build a kitchen, put model E3 & E1 onto model A, align with holes at model A and B2 & B1.
+<BR><P>
 ![pic_90](images/Case11/Case11_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><BR><P>
-Use M4 screws and nuts to install the flame sensor to B2 cardboard.<BR><P>
+Attached the flame sensor to the model B2 using M4\*10mm screws and nuts. And the connecting wire should be bended to the hole nearby.
+<BR><P>
 
 ![pic_90](images/Case11/Case11_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><BR><P>
-Use M4 screws and nuts to install the multi-color LED to B2 cardboard<BR><P>
+Attached multi-color LED to the model B2 using M4\*10mm screws and nuts. And the connecting wire should be bended to the hole below.
+<BR><P>
 
 ![pic_90](images/Case11/Case11_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><BR><P>
-To build a stove, put the L2 * 2 to L1 from the top to bottom.<BR><P>
+To build a stove model. Put the model L2 to model L1 from the top to bottom.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><BR><P>
-Insert L1 into the L2 according to the arrow.<BR><P>
+Fold the model L1 into the model L2 according to the arrow.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><BR><P>
-Insert L1 into the L2 according to the arrow. Tighten inserting the end of L1 into the end of the hole L1.<BR><P>
+Fold the another side of model L1 into the model L2 according to the arrow.
+<BR><P>
 
 ![pic_90](images/Case11/Case11_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><BR><P>
-Stick the paper that drawing your favorite cooking stove look.<BR><P>
+Stick the paper with a cooking stove pattern.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass8.png)<P>
 
 <span id="subtitle">Step 9</span><BR><P>
-Completed <BR><P>
+The cooking stove Completed!<BR><P>
 
 ![pic_90](images/Case11/Case11_ass9.png)<P>
 
 
 <span id="subtitle">Step 10</span><BR><P>
-Place the cooking stove model to correct place.<BR><P>
+Place the cooking stove model at the kitchen.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass10.png)<P>
 
 <span id="subtitle">Step 11</span><BR><P>
-To build a fridge, attach light sensor onto G1 model using M4 \* 10mm screws and nuts. And the connecting wire could be bended to the hole below it.<BR><P>
+To build a fridge, attach light sensor onto model G1 using M4 \* 10mm screws and nuts. And the connecting wire could be bended to the hole below it.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass11.png)<P>
 
 <span id="subtitle">Step 12</span><BR><P>
-Fold and bend the G1 modelaccordinglyand put G3 model into the G1 model, align with the holes.<BR><P>
+Fold and bend the Model G1 accordinglyand put Model G3 into the Model G1, align with the holes.
+<BR><P>
 
 ![pic_90](images/Case11/Case11_ass12.png)<P>
 
 <span id="subtitle">Step 13</span><BR><P>
-Put G2 model onto the G1 model, align with the holes.<BR><P>
+Put Model G2 onto the Model G1, align with the holes.
+<BR><P>
 
 ![pic_90](images/Case11/Case11_ass13.png)<P>
 
@@ -99,12 +105,12 @@ The fridge completed!<BR><P>
 ![pic_90](images/Case11/Case11_ass14.png)<P>
 
 <span id="subtitle">Step 15</span><BR><P>
-Place the fridge model to correct place.<BR><P>
+Place the fridge model at the coner of the kitchen.<BR><P>
 
 ![pic_90](images/Case11/Case11_ass15.png)<P>
 
 <span id="subtitle">Step 16</span><BR><P>
-Completed! <BR><P>
+The fridge Completed!<BR><P>
 
 ![pic_90](images/Case11/Case11_ass16.png)<P>
 

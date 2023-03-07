@@ -29,41 +29,42 @@ The micro:bit will connect to the Internet to get the device ID. In the mobile a
 <HR>
 
 <span id="subtitle">Step 1</span><BR><P>
-Build the base model of big style model. <BR><P>
+In this case, build the “Big Style Model” as a home base.
+<BR><P>
 ![pic_90](images/Case12/Case12_ass1.png)<P>
 
 <span id="subtitle">Step 2</span><BR><P>
-Insert the E3 & E1 cardboard on A cardboard, align with holes at A and B4 & B3 cardboard.
+To build a room, insert the model E1 and E3 on model A, align with holes on model A, B3 and B4.
 <BR><P>
 ![pic_90](images/Case12/Case12_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><BR><P>
-Use M4 screw and nuts to install the Multi-color LED to B4 cardboard
+Attach the Multi-color LED to model B4 using M4 \* 10mm screws and nuts.
 <BR><P>
 ![pic_90](images/Case12/Case12_ass3.png)<P>
 
 <span id="subtitle">Step 4</span><BR><P>
-To build a Bed. Put J2 model onto the J1 model, then put together all the cardboard parts (J1-J3).
+To build a bed. Put model J2 onto the model J1, then put together all the cardboard parts (J1-J3).
 <BR><P>
 ![pic_90](images/Case12/Case12_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><BR><P>
-The bed completed!
+ The bed completed!
 <BR><P>
 ![pic_100](images/Case12/Case12_ass5.png)<P>
 
 <span id="subtitle">Step 6</span><BR><P>
-Place the bed at the correct position
+Place the bed inside the bedroom.
 <BR><P>
 ![pic_90](images/Case12/Case12_ass6.png)<P>
 
 <span id="subtitle">Step 7</span><BR><P>
-Stick the decoration board (H Model) to here
+Place the decoration board (Model H) on model B3.
 <BR><P>
 ![pic_90](images/Case12/Case12_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><BR><P>
-Completed!
+Assembly Completed!
 <BR><P>
 ![pic_90](images/Case12/Case12_ass8.png)<P>
 
