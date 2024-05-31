@@ -3,33 +3,48 @@ img[alt="auto_fit"]{
 	display:block;
 }
 
-img[alt="pic_90"] { 
+img[alt="pic_100"] {
+  max-width:  100%;
+  display: block;
+}
+
+img[alt="pic_90"] {
   max-width:  90%;
   display: block;
 }
 
-img[alt="pic_80"] { 
+img[alt="pic_80"] {
   max-width:  80%;
   display: block;
 }
 
-img[alt="pic_70"] { 
+img[alt="pic_75"] {
+  max-width:  75%;
+  display: block;
+}
+
+img[alt="pic_70"] {
   max-width:  70%;
   display: block;
 }
 
-img[alt="pic_60"] { 
+img[alt="pic_60"] {
   max-width:  60%;
   display: block;
 }
 
-img[alt="pic_50"] { 
+img[alt="pic_50"] {
   max-width:  50%;
   display: block;
 }
 
-img[alt="pic_40"] { 
+img[alt="pic_40"] {
   max-width:  40%;
+  display: block;
+}
+
+img[alt="pic_30"] {
+  max-width:  30%;
   display: block;
 }
 
@@ -38,16 +53,16 @@ img[alt="icon"]{
 	display: inline;
 }
 
-img[alt="level"] { 
-  max-width:  120px; 
-  
+img[alt="level"] {
+  max-width:  120px;
+
 }
 
-span[id="remarks"] { 
+span[id="remarks"] {
   color: red;
-  
+
 }
-span[id="subtitle"] { 
+span[id="subtitle"] {
   font-size: 14pt;
   font-weight: bold;
 }
@@ -63,13 +78,13 @@ table[id="cus_table"] tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
 
-table[id="cus_table"] tr td { 
- 
+table[id="cus_table"] tr td {
+
  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
-  
+
 }
 table[id="cus_table"] tr th {
   font-weight: bold;
