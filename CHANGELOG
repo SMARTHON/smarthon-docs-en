@@ -19,7 +19,13 @@ Merge assembly_step_final, home_full_solution_fix and background_2 to develop br
 - Update case 13 content
 
 Version 1.4 (2024-05-31)
-Meege iot_bit_branch and develop branch at 5:22:11 PM on 31 May 2024 to master branch
+Merge iot_bit_branch and develop branch at 0:23 AM on 09 Mar 2023 to master branch
 - Create new category -- IoT:bit
 - Move connectWifi and chapter 1-5 from Smart City to IoT:bit
 - Add new chapters (Introduction, Add the extension, NTP, OTA, HTTP(hidden)) in IoT:bit
+
+Version 1.5 (2024-06-06)
+Merge plant_electronics and publish_homeIoT to master branch
+- Add new sensors and actuators (Water Pump, Soil Moisture Sensor, Digital Light Sensor, Fog Module, LCD1602, LED Grow Light, CO2 sensor)
+- Unhide Smart Home IoT Maker Kit (hide case 14)
+- Hide Smart House Kit
