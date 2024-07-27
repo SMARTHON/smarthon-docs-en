@@ -20,3 +20,6 @@ Smarthon Smart City IoT Starter Kit
     case09.md
     case10.md
     case11.md
+    scenario1.md
+    scenario2.md
+    scenario3.md

@@ -23,3 +23,7 @@ Smarthon Smart Home IoT Maker Kit
     case12.md
     case13.md
     ..case14.md
+    scenario1.md
+    scenario2.md
+    scenario3.md
+    scenario4.md

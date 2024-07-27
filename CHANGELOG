@@ -29,3 +29,8 @@ Merge plant_electronics and publish_homeIoT to master branch
 - Add new sensors and actuators (Water Pump, Soil Moisture Sensor, Digital Light Sensor, Fog Module, LCD1602, LED Grow Light, CO2 sensor)
 - Unhide Smart Home IoT Maker Kit (hide case 14)
 - Hide Smart House Kit
+
+Version 1.6 (2024-07-27)
+Merge city_scenario and home_scenario to master branch
+- Add 3 smart city scenario
+- Add 4 smart home scenario
