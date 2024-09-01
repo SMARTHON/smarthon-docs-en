@@ -34,3 +34,9 @@ Version 1.6 (2024-07-27)
 Merge city_scenario and home_scenario to master branch
 - Add 3 smart city scenario
 - Add 4 smart home scenario
+
+Version 1.7 (2024-09-01)
+Merge ifttt_fix to master branch
+-Update smart city case 07, smart home case 11, chapter 2
+-Update chapter 7 for the firmware update
+-Unhide the chapter 8 - HTTP 
