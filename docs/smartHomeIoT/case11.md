@@ -126,41 +126,11 @@ The fridge Completed!<BR><P>
 ![pic_80](images/Case11/Case11_hardware.png)<P>
 
 
-## IoT (IFTTT)
-<HR>
-
-### Part 1: Setup IFTTT
-1. Create a IFTTT account and login
-2. Create a new Applet
-3. In the IF, search "Webhooks" and click the Webhooks application<BR>
-![pic_80](images/Case11/Case11_iot1.png)<P>
-4. Choose the "Received a web request" and enter the event name "fire"<BR>
-![pic_80](images/Case11/Case11_iot2.png)<P>
-![pic_80](images/Case11/Case11_iot3.png)<P>
-5. In the THEN, search "Notifications" and click the notifications application
-6. Choose the "Send a notification from the IFTTT App"<BR>
-![pic_80](images/Case11/Case11_iot4.png)<P>
-7. After the applet is finish setup, click the Webhooks icon -> documentation<BR>
-![pic_80](images/Case11/Case11_iot5.png)<P><BR>
-![pic_80](images/Case11/Case11_iot6.png)<P>
-8. Copy the Key<BR>
-![pic_80](images/Case11/Case11_iot7.png)<P>
-<HR>
-<H4>Optional: Use email as notification method</H4>
-
-In the THEN field, search for the “email” and use it to replace the “notifications” in previous step
-![pic_70](images/Case11/Case11_iot8.png)<P>
-![pic_70](images/Case11/Case11_iot9.png)<P>
-![pic_70](images/Case11/Case11_iot10.png)<P>
-
-### Part 2: Install the IFTTT App on smartphone
-1. Go to <U>play store</U> or <U>app store</U> to search and download the IFTTT App
-![auto_fit](images/Case11/Case11_iot11.png)<P>
-2. Login to your IFTTT account
-![auto_fit](images/Case11/Case11_iot12.png)<P>
-
 ## Programming (MakeCode)
 <HR>
+
+
+
 
 <span id="subtitle">Step 1. Initialize OLED, IoT:bit and connect to WiFi, create variable</span><BR><P>
 * Snap `Initialize OLED with width:128, height: 64` to `on start`
@@ -170,9 +140,10 @@ In the THEN field, search for the “email” and use it to replace the “notif
 * Snap `Set strip to NeoPixel at pin P1 with 1 leds as RGB(GRB format)`
 ![pic_60](images/Case11/Case11_p1.png)<P>
 
-<span id="subtitle">Step 2. Show icon “tick” after WiFi connection</span><BR><P>
+<span id="subtitle">Step 2. Show icon “tick” and Device ID after WiFi connection</span><BR><P>
 * Snap `show icon` from `basic` to `On WiFi connected` and select icon `tick`
-![pic_50](images/Case11/Case11_p2.png)<P>
+* Draw the `Device ID` variable from `On WiFi connected` to the `show string` block placeholder
+![pic_50](images/Case11-Fix/Case11-Fix_p1.png)<P>
 
 <span id="subtitle">Step 3. Check the internet connection status</span><BR><P>
 * In the `Forever`, put a `if` statement with condition `WiFi connected?` to check the connection status
@@ -192,9 +163,9 @@ In the THEN field, search for the “email” and use it to replace the “notif
 ![auto_fit](images/Case11/Case11_p5.png)<P>
 
 <span id="subtitle">Step 6. Action on IFTTT</span><BR><P>
-* Put a `Send IFTTT key* XXXXXXXXX event_name* XXXXX ....` to send the event to IFTTT
-* Fill in the `IFTTT key` from your Webhooks and the Applet's `event_name`
-![pic_50](images/Case11/Case11_p6.png)<P>
+* Put a `Send IFTTT event_name* XXXXX` to send the event to IFTTT
+* Fill in the Applet's `event_name`
+![pic_50](images/Case11-Fix/Case11-Fix_p2.png)<P>
 
 <span id="subtitle">Step 7. Know the Upload result</span><BR><P>
 * To check the upload state, use the `On IFTTT Uploaded` to get the sending result
@@ -206,11 +177,45 @@ In the THEN field, search for the “email” and use it to replace the “notif
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_959awf824d8P](https://makecode.microbit.org/v4#editor:_959awf824d8P)<BR><P>
+MakeCode: [https://makecode.microbit.org/_RziMMzU1eLiW](https://makecode.microbit.org/_RziMMzU1eLiW)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/v4#pub:_959awf824d8P" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/_RziMMzU1eLiW" width="100%" height="500" frameborder="0"></iframe>
+
+## IoT (IFTTT)
+<HR>
+
+### Part 1: Setup IFTTT
+
+<span id="subtitle" >Step 1</span><BR><P>
+Go to [http://www.ifttt.com](http://www.ifttt.com), register an account and login to the platform<BR><P>
+![auto_fit](images/Case11-Fix/Case11-Fix_p6.png)<P>
+<span id="subtitle" >Step 2</span><BR><P>
+On the top right menu, click “Create” > “Applets”<BR><P>
+![auto_fit](images/Case11-Fix/Case11-Fix_p7.png)<P>
+<span id="subtitle" >Step 3</span><BR><P>
+* Select this 
+* Select Smarthon IoT
+* Input Device ID and Event Name. (eg. Device ID: 0x55a842e3477a, Event Name: Fire)
+* Click “Create trigger” <BR><P>
+![auto_fit](images/Case11-Fix/Case11-Fix_p3.png)<P>
+<span id="subtitle" >Step 4</span><BR><P>
+* Select “That”
+* Notifications 
+* Send a notification from the IFTTT app 
+* Message (eg. There is a fire in the house!), the click “Create action”
+![auto_fit](images/Case11-Fix/Case11-Fix_p4.png)<P> <BR>
+
+<span id="subtitle" >Optional: Use email as notification method</span><BR><P>
+In the THEN field, search for the “email” and use it to replace the “notifications” in previous step
+![pic_100](images/Case11-Fix/Case11-Fix_p5.png)<P><BR>
 
 
+
+### Part 2: Install the IFTTT App on smartphone
+1. Go to <U>play store</U> or <U>app store</U> to search and download the IFTTT App
+![auto_fit](images/Case11/Case11_iot11.png)<P>
+2. Login to your IFTTT account
+![auto_fit](images/Case11/Case11_iot12.png)<P>
 
 
 ## Result

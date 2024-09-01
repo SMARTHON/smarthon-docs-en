@@ -45,19 +45,7 @@ Turn on the Buzzer Switch on P0 port of IoT:bit<BR><P>
 ![auto_fit](images/Case7/Case7_hardware.png)<P>
 
 *Pull the buzzer switch <B>'down'</B> to connect the buzzer in this execrise*
-## IoT (IFTTT)
-<HR>
 
-<span id="remarks">* For more details, please refer to Chapter 2: Send Email by IFTTT </span><BR><P>
-
-<span id="subtitle">Step 1</span><BR><P>
-Go to [https://ifttt.com](https://ifttt.com/) , create applet (if webhooks then Email)<BR><P>
-![auto_fit](images/Case7/Case7_iot1.png)<P>
-
-
-<span id="subtitle">Step 2</span><BR><P>
-Go to “My services” > “Webhooks”, select “Documentation” . Copy your Webhooks Key as follows:<BR><P>
-![auto_fit](images/Case7/Case7_iot2.png)<P>
 
 ## Programming (MakeCode)
 <HR>
@@ -71,7 +59,8 @@ Go to “My services” > “Webhooks”, select “Documentation” . Copy your
 
 <span id="subtitle">Step 2: Show icon "tick" after WiFi connection</span><BR><P>
 * Snap `show icon` from `basic` to `On WiFi connected` and select icon `tick`
-![auto_fit](images/Case7/Case7_p2.png)<P>
+*Snap `show string` to `On WiFi connected` and show `Device ID`
+![auto_fit](images/Case7-Fix/Case7-Fix_p5.png)<P>
 
 <span id="subtitle">Step 3. Check motion sensor value</span><BR><P>
 * Snap `if statement` to block `forever`
@@ -83,17 +72,44 @@ Go to “My services” > “Webhooks”, select “Documentation” . Copy your
 * Snap `if statement` to block `forever`
 * If `WiFi is connected`, then snap `play tone Middle C for 1 beat` from `music`
 * Snap `show icon` from `basic` and select a `monster icon`
-* Snap `Send IFTTT key…` from `IoT:bit` > `IoT Services`, input your `IFTTT key` and input event name `SendEmail`
-![auto_fit](images/Case7/Case7_p4.png)<P>
+* Snap `Send IFTTT event_name*…` from `IoT:bit` > `IoT Services`, input your event name `SendEmail`
+![auto_fit](images/Case7-Fix/Case7-Fix_p1.png)<P>
 
 <span id="subtitle">Step 5. Show smile icon when no one pass by </span><BR><P>
 * Snap `show icon` into `Else`, and select icon `smile` 
 * Snap `Pause` after `if statement` to the loop for 1 second delay for checking
-![auto_fit](images/Case7/Case7_p5.png)<P>
+![auto_fit](images/Case7-Fix/Case7-Fix_p2.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_H4uU8R3716xj" target="_blank">https://makecode.microbit.org/_H4uU8R3716xj</a>
-![auto_fit](images/Case7/Case7_full_program.png)<P>
+MakeCode: <a href="https://makecode.microbit.org/_3Vu4WV2Hf2wq" target="_blank">https://makecode.microbit.org/_3Vu4WV2Hf2wq</a>
+![auto_fit](images/Case7-Fix/Case7-Fix_p3.png)<P>
+Download the hex file:<BR>
+<iframe src="https://makecode.microbit.org/_3Vu4WV2Hf2wq" width="100%" height="500" frameborder="0"></iframe>
+
+## IoT (IFTTT)
+<HR>
+
+<span id="remarks">* For more details, please refer to Chapter 2: Send Email by IFTTT </span><BR><P>
+
+<span id="subtitle" >Step 1</span><BR><P>
+Go to [http://www.ifttt.com](http://www.ifttt.com), register an account and login to the platform<BR><P>
+![auto_fit](images/Case7-Fix/Ch2_ifttt1.png)<P>
+<span id="subtitle" >Step 2</span><BR><P>
+On the top right menu, click “Create” > “Applets”<BR><P>
+![auto_fit](images/Case7-Fix/Ch2_ifttt2.png)<P>
+<span id="subtitle" >Step 3</span><BR><P>
+* Select this
+* Select Smarthon IoT 
+* Input Device ID and Event Name. (eg. Device ID: 0x55a842e3477a, Event Name: SendEmail)
+* Click “Create trigger” <BR><P>
+
+![auto_fit](images/Case7-Fix/Case7-Fix_p6.png)<P>
+<span id="subtitle" >Step 4</span><BR><P>
+Select “That” > Email > Email<BR><P>
+![auto_fit](images/Case7-Fix/Case7-Fix_p7.png)<P>
+<span id="subtitle" >Step 5</span><BR><P>
+Select “Send me an email” , Input email title and body, then click “Create action” <BR><P>
+![auto_fit](images/Case7-Fix/Case7-Fix_p8.png)<P>
 
 
 ## Result 

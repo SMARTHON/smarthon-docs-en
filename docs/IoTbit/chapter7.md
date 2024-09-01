@@ -126,13 +126,22 @@ If any error message appears, please follow the instructions below and ***DO NOT
 
 <span id="subtitle">Available for ESP32</span><P>
 
-**Version 4.01 — 12 Jun 2023 (Latest version)**
+**Version 4.2 — 30 AUG 2024 (Latest version)**
+
+Features:‍
+* Add the IFTTT webhooks equivalent function
+
+Download: [<u>firmware_v4.2</u>](https://control.smarthon.cc/UpdateFW/4.2/firmware_v4_2.bin)<BR><P>
+
+**Version 4.01 — 12 Jun 2023**
 
 Features:‍
 * Add the ledc module back
 
 Fixes:
 * Fix the issue that cannot control servo
+
+Download: [<u>firmware_v4.01</u>](https://control.smarthon.cc/UpdateFW/4.0/firmware_v4_01.bin)<BR><P>
 
 **Version 4.0 — 5 Mar 2023**
 
@@ -231,7 +240,7 @@ For IoT:bit firmware versions lower than 4.0, please update according to this tu
 
 1. Select the serial port at COM
 2. Select 921600 at BAUD
-3. Select the IoT:bit [<u>firmware Bin file</u>](https://github.com/SMARTHON/esp_iot-bit-firmware/raw/master/Release%20firmware%20version/firmware_v4_01.bin) and check the nearby box
+3. Select the IoT:bit [<u>firmware Bin file</u>](https://control.smarthon.cc/UpdateFW/4.2/firmware_v4_2.bin) and check the nearby box
 4. Enter the burning address 0x0000
 5. Uncheck DoNotChgBin
 6. Do not change other settings, click START to start burning
