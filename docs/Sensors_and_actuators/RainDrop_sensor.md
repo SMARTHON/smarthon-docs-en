@@ -34,7 +34,7 @@ Size: 50mm X 40mm
 * Connect the sensor to development board (using wire)
 ![auto_fit](images/RainDrop_Sensor_3.png)<P>
 
-* Open Makecode, using the https://github.com/smarthon/pxt-smartcity PXT <P>
+* Open Makecode, using the [https://github.com/smarthon/pxt-smartcity](https://github.com/smarthon/pxt-smartcity) PXT <P>
 ![auto_fit](images/RainDrop_Sensor_4.png)<P>
 
 * Initial the OLED screen and show the reading of the raindrop sensor

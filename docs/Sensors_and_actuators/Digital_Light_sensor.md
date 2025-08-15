@@ -1,6 +1,6 @@
 # Digital Light Sensor (BH1750)
 
-![pic_40](images/Digital_Light_Sensor_0.jpg)
+![pic_40](images/digital_light/Digital_Light_Sensor_0_1.jpg)
 
 
 ## Introduction
@@ -11,7 +11,7 @@ Digital Light Sensor (BH1750) uses a photodiode to measure ambient light. The ph
 ## The principle
 
 A photodiode is a PN-junction diode. There is a region called depletion region at the interface between P-type and N-type. <P>
-![auto_fit](images/Digital_Light_Sensor_1.jpg)
+![auto_fit](images/digital_light/Digital_Light_Sensor_1.jpg)
 
 Light carries energy in the form of small energy packets called Photons. When the depletion region is illuminated by photons of energy enough to break covalent interatomic bonds, it creates a pair – an electron(black spots in figure), and a hole(white spots in figure). Electrons continue flowing down the wire to the voltage source, and to the P-type. The holes cannot move in wires, so they recombine with incoming electrons at the P-type. The photocurrent generated will be converted into voltage, then from analog values into digital values, finally output illuminance in LUX. <P>
 
@@ -40,7 +40,7 @@ Light carries energy in the form of small energy packets called Photons. When th
 
 ## Outlook and Dimension
 
-![pic_40](images/Digital_Light_Sensor_2.png)
+![pic_40](images/digital_light/Digital_Light_Sensor_2_1.png)
 
 
 Size: 25mm X 25mm
@@ -48,19 +48,19 @@ Size: 25mm X 25mm
 ## Quick to Start/Sample
 
 * Connect the digital light sensor to development board (using wire) <P>
-![pic_60](images/Digital_Light_Sensor_3.png) <P>
+![pic_60](images/digital_light/Digital_Light_Sensor_3_1.png) <P>
 
 * Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/Digital_Light_Sensor_4.png) <P>
+![pic_80](images/digital_light/Digital_Light_Sensor_4.png) <P>
 
 * Show the light intensity on the OLED <P>
-![auto_fit](images/Digital_Light_Sensor_5.png) <P>
+![auto_fit](images/digital_light/Digital_Light_Sensor_5.png) <P>
 
 
 ## Result
 
 The light intensity showing on the OLED screen <P>
-![auto_fit](images/Digital_Light_Sensor_6.png)
+![auto_fit](images/digital_light/Digital_Light_Sensor_6.png)
 
 
 ## FAQ

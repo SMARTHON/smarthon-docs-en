@@ -26,3 +26,14 @@ Sensors and actuators
     LCD1602.md
     LED_Grow_Light.md
     CO2_sensor.md
+    Single_LED.md
+    buzzer.md
+    Dimmer.md
+    IR_sensor.md
+    laser.md
+    laser_dust.md
+    water_quality.md
+    ..gas_sensor.md
+    ..BME280.md
+    ..Ph_sensor.md
+    

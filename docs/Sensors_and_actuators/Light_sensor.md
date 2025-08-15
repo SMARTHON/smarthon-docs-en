@@ -40,7 +40,7 @@ Size: 25mm X 25mm
 * Connect the sensor to development board (direct plugin or using wire)
 ![auto_fit](images/Light_Sensor_3.png)<P>
 
-* Open Makecode, using the https://github.com/smarthon/pxt-smartcity PXT <P>
+* Open Makecode, using the [https://github.com/smarthon/pxt-smartcity](https://github.com/smarthon/pxt-smartcity) PXT <P>
 ![auto_fit](images/Light_Sensor_4.png)<P>
 
 * Initial the OLED and show the reading of Voltage Output

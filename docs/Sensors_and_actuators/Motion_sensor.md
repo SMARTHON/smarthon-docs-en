@@ -39,7 +39,7 @@ Size: 25mm X 30mm
 * Connect the module to the development board (direct plugin or using wire)
 ![auto_fit](images/Motion_Sensor_4.png)<P>
 
-* Open Makecode, using the https://github.com/smarthon/pxt-smartcity PXT <P>
+* Open Makecode, using the [https://github.com/smarthon/pxt-smartcity](https://github.com/smarthon/pxt-smartcity) PXT <P>
 ![auto_fit](images/Motion_Sensor_5.png)<P>
 
 * Use to PXT library to read the detection result, and make the LEDs change according the result
