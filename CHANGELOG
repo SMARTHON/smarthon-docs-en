@@ -40,3 +40,12 @@ Merge ifttt_fix to master branch
 -Update smart city case 07, smart home case 11, chapter 2
 -Update chapter 7 for the firmware update
 -Unhide the chapter 8 - HTTP 
+
+Version 1.8 (2025-08-15)
+- Update Chapter 8 > HTTP Post Function
+- Add new Chapter 9 (Blynk)
+- Add new sensors and actuators - Creator Kit (Buzzer, Dimmer, IR sensor, Laser, single LED)
+- Add new sensors and actuators - City Extension Kit  (laser dust, water quality)
+- Add new sensors and actuators - Science Kit (BME280, Gas sensor, PH sensor)
+- Update images (BH1750)
+- Hide the 3 modules (Science kit) - Town gas/BME280/PH Sensor
