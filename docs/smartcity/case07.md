@@ -81,10 +81,10 @@ Turn on the Buzzer Switch on P0 port of IoT:bit<BR><P>
 ![auto_fit](images/Case7-Fix/Case7-Fix_p2.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_3Vu4WV2Hf2wq" target="_blank">https://makecode.microbit.org/_3Vu4WV2Hf2wq</a>
+MakeCode: <a href="https://makecode.microbit.org/S25125-53311-95019-94178" target="_blank">https://makecode.microbit.org/S25125-53311-95019-94178</a>
 ![auto_fit](images/Case7-Fix/Case7-Fix_p3.png)<P>
 Download the hex file:<BR>
-<iframe src="https://makecode.microbit.org/_3Vu4WV2Hf2wq" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S25125-53311-95019-94178" width="100%" height="500" frameborder="0"></iframe>
 
 ## IoT (IFTTT)
 <HR>

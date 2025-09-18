@@ -66,9 +66,9 @@ On WiFi disconnected handler will be triggered when the WiFi connection is loss,
 ![auto_fit](images/ConnectWiFi/Wifi_p5.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_53Yf8qcx521m](https://makecode.microbit.org/_53Yf8qcx521m)<BR><P>
+MakeCode: [https://makecode.microbit.org/S14324-29481-76234-16745](https://makecode.microbit.org/S14324-29481-76234-16745)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_53Yf8qcx521m" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S14324-29481-76234-16745" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## Result

@@ -172,9 +172,9 @@ Assembly Completed!<P>
 
 <span id="subtitle">Full Solution<BR><P>
 
-MakeCode: [https://makecode.microbit.org/_Vw1ebpiE2CsR](https://makecode.microbit.org/v4#editor:_Vw1ebpiE2CsR)<BR><P>
+MakeCode: [https://makecode.microbit.org/S55831-49484-48805-49171](https://makecode.microbit.org/S55831-49484-48805-49171)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/v4#pub:_Vw1ebpiE2CsR" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S55831-49484-48805-49171" width="100%" height="500" frameborder="0"></iframe>
 
 
 

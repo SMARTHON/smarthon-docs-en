@@ -131,9 +131,9 @@ Assembly Completed!<BR><P>
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_ExgH3FKJWT2b](https://makecode.microbit.org/v4#editor:_ExgH3FKJWT2b)<BR><P>
+MakeCode: [https://makecode.microbit.org/S77738-06496-37751-47481](https://makecode.microbit.org/S77738-06496-37751-47481)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/v4#pub:_ExgH3FKJWT2b
+<iframe src="https://makecode.microbit.org/S77738-06496-37751-47481
 " width="100%" height="500" frameborder="0"></iframe>
 
 ## Result

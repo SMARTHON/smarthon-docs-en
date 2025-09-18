@@ -75,7 +75,7 @@ Connect the white LED Light to P0 port of IoT:bit<BR><P>
 
 <span id="subtitle">Full Solution<BR><P>
 
-MakeCode: <a href="https://makecode.microbit.org/_6DuRvwD5PYpU" target="_blank">https://makecode.microbit.org/_6DuRvwD5PYpU</a>
+MakeCode: <a href="https://makecode.microbit.org/S04795-22528-30275-73994" target="_blank">https://makecode.microbit.org/S04795-22528-30275-73994</a>
 
 ![auto_fit](images/Case10/Case10_full_program.png)<P>
 <P>

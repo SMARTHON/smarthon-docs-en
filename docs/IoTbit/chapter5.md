@@ -44,9 +44,9 @@ After press the A and B button at the same time, Micro:bit will start listening 
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_KbxHgu7xfHhP](https://makecode.microbit.org/_KbxHgu7xfHhP)<BR><P>
+MakeCode: [https://makecode.microbit.org/S73564-74437-40057-11215](https://makecode.microbit.org/S73564-74437-40057-11215)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_KbxHgu7xfHhP" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S73564-74437-40057-11215" width="100%" height="500" frameborder="0"></iframe>
 <P><P>
 
 

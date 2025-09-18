@@ -52,9 +52,9 @@ Refer case 5,7,8,9,10
 
 **Scenario 3 Full Solution**
 
-MakeCode: [https://makecode.microbit.org/S83728-02634-27399-17895](https://makecode.microbit.org/S83728-02634-27399-17895)<BR><P>
+MakeCode: [https://makecode.microbit.org/16876-57308-88647-06271](https://makecode.microbit.org/16876-57308-88647-06271)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S83728-02634-27399-17895" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/16876-57308-88647-06271" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 
@@ -102,9 +102,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S93284-55697-22581-30236](https://makecode.microbit.org/S93284-55697-22581-30236)<BR><P>
+MakeCode: [https://makecode.microbit.org/S08334-56214-27815-93357](https://makecode.microbit.org/S08334-56214-27815-93357)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S93284-55697-22581-30236"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S08334-56214-27815-93357"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -216,10 +216,10 @@ It will keep checking the distance of cars from distance sensor by distance sens
 <span id="subtitle">Part 2 Full Solution:</span><p>
 
 ![auto_fit](./images/Sc3/Sc3_p14.png)<p>
-MakeCode: [https://makecode.microbit.org/S40130-05094-04914-35523](https://makecode.microbit.org/S40130-05094-04914-35523)<BR><P>
+MakeCode: [https://makecode.microbit.org/S77055-47262-47956-56848](https://makecode.microbit.org/S77055-47262-47956-56848)<BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S40130-05094-04914-35523"width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S77055-47262-47956-56848"width="100%" height="500" frameborder="0"></iframe>
 <p>
 
 <span id="subtitle">Part 2 Result</span><p>
@@ -271,10 +271,10 @@ Once the light intensity is too low, it indicates that there is a traffic jam on
 <span id="subtitle">Part 3 Full Solution:</span><p>
 ![auto_fit](./images/Sc3/Sc3_p17.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S60159-60734-94514-19552](https://makecode.microbit.org/S60159-60734-94514-19552)<BR><P>
+MakeCode: [https://makecode.microbit.org/S35003-46585-93313-79082](https://makecode.microbit.org/S35003-46585-93313-79082)<BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S60159-60734-94514-19552" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S35003-46585-93313-79082" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -346,10 +346,10 @@ The micro:bit is controlled by IFTTT (trigger by date&time). The LED light will 
 
 ![auto_fit](./images/Sc3/Sc3_p22.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S64338-20403-57038-16388](https://makecode.microbit.org/S64338-20403-57038-16388)<BR><P>
+MakeCode: [https://makecode.microbit.org/S04257-89623-17473-32946](https://makecode.microbit.org/S04257-89623-17473-32946)<BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S64338-20403-57038-16388" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S04257-89623-17473-32946" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -416,9 +416,9 @@ When WiFi is connected, if there are any suspicious movement near the door, the 
 
 ![auto_fit](./images/Sc3/Sc3_p25.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S83728-02634-27399-17895](https://makecode.microbit.org/SS83728-02634-27399-17895)<BR><P>
+MakeCode: [https://makecode.microbit.org/16876-57308-88647-06271](https://makecode.microbit.org/16876-57308-88647-06271)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S83728-02634-27399-17895" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/16876-57308-88647-06271" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result</span><p>
 

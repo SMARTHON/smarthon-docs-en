@@ -124,7 +124,7 @@ If the upload is successful, it will show OK as the status with error code 0.<br
 On Blynk, you will see the value of the Gauge keep changing randomly, which is controlled by the data sent from your Micro:bit.<br>
 ![](images/Ch9/Ch9_16.jpg)<br><br>
 **<u>Web Dashboard:</u>**<br>
-![](images/Ch9/Ch9_33_4.gif)<br><br>
+![pic_60](images/Ch9/Ch9_33_5.gif)<br><br>
 
 **<u>Mobile Dashboard:</u>**<br>
 ![pic_40](images/Ch9/Ch9_35.gif)<br><br>

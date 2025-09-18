@@ -88,9 +88,9 @@ Turning it counterclockwise decreases sensitivity (it will trigger only at a lon
 
 ## Result
 No detected the object in front of the IR sensor <br>
-![pic_80](images/IR_sensor/IR_sensor_11.jpg)
+![](images/IR_sensor/IR_sensor_11_3.jpg)<br>
 Detected the object in front of the IR sensor <br>
-![pic_80](images/IR_sensor/IR_sensor_12.jpg)
+![](images/IR_sensor/IR_sensor_12_3.jpg)<br>
 
 
 ## FAQ

@@ -103,9 +103,9 @@ Assembly Completed!
 ![auto_fit](images/Case12/Case12_p3.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_bJpLi2T3uK3C](https://makecode.microbit.org/v4#editor:_bJpLi2T3uK3C)<BR><P>
+MakeCode: [https://makecode.microbit.org/S06366-85821-99722-81571](https://makecode.microbit.org/S06366-85821-99722-81571)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/v4#pub:_bJpLi2T3uK3C" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S06366-85821-99722-81571" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## IoT (App inventor 2)

@@ -66,7 +66,7 @@ Connect LED light to the P3 port of Smarthon IoT:bit<BR><P>
 ![pic_90](images/Case1/Case1_p2.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_X4xYjzHU6d91" target="_blank">https://makecode.microbit.org/_X4xYjzHU6d91</a>
+MakeCode: <a href="https://makecode.microbit.org/S68864-53853-05528-25643" target="_blank">https://makecode.microbit.org/S68864-53853-05528-25643</a>
 ![pic_100](images/Case1/Case1_full_program.png)<P>
 
 <P>

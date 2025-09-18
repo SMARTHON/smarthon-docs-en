@@ -55,9 +55,9 @@ N/A<P>
 
 <span id="subtitle">Full Solution<BR><P>
 
-MakeCode: [https://makecode.microbit.org/_JF0RtbVihXDD](https://makecode.microbit.org/_JF0RtbVihXDD)<BR><P>
+MakeCode: [https://makecode.microbit.org/S03594-89946-74148-89880](https://makecode.microbit.org/S03594-89946-74148-89880)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_JF0RtbVihXDD" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S03594-89946-74148-89880" width="100%" height="500" frameborder="0"></iframe>
 
 ### Result
 <HR>

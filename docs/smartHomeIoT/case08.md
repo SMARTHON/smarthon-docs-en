@@ -148,9 +148,9 @@ Assembly Completed!
 ![auto_fit](images/Case8/Case8_p5.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_6sm7bVe3AP2T](https://makecode.microbit.org/_ieEiYx8qffxJ)<BR><P>
+MakeCode: [https://makecode.microbit.org/S95086-18856-18470-99242](https://makecode.microbit.org/S95086-18856-18470-99242)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_6sm7bVe3AP2T" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S95086-18856-18470-99242" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## Result

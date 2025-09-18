@@ -59,9 +59,9 @@ If you want to show the thingspeak status, you can use the on Thingspeak Uploade
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_PHU0oJLwHAYD](https://makecode.microbit.org/_PHU0oJLwHAYD)<BR><P>
+MakeCode: [https://makecode.microbit.org/S50897-87530-58227-65452](https://makecode.microbit.org/S50897-87530-58227-65452)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_PHU0oJLwHAYD" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S50897-87530-58227-65452" width="100%" height="500" frameborder="0"></iframe>
 
 <P>
 

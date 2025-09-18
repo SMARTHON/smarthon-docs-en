@@ -138,9 +138,9 @@ Assembly Completed!
 ![pic_80](images/Case13/Case13_p4.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_HRzCxhELKDMH](https://makecode.microbit.org/v4#editor:_HRzCxhELKDMH)<BR><P>
+MakeCode: [https://makecode.microbit.org/S40911-39605-55147-37667](https://makecode.microbit.org/S40911-39605-55147-37667)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/v4#pub:_HRzCxhELKDMH" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S40911-39605-55147-37667" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## IoT (Alexa, Cloud Control, IFTTT)

@@ -177,9 +177,9 @@ The fridge Completed!<BR><P>
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_RziMMzU1eLiW](https://makecode.microbit.org/_RziMMzU1eLiW)<BR><P>
+MakeCode: [https://makecode.microbit.org/S90038-27905-10105-17023](https://makecode.microbit.org/S90038-27905-10105-17023)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/_RziMMzU1eLiW" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S90038-27905-10105-17023" width="100%" height="500" frameborder="0"></iframe>
 
 ## IoT (IFTTT)
 <HR>

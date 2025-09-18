@@ -116,9 +116,9 @@ Assembly Completed!
 ![pic_90](images/Case3/Case3_p4.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: [https://makecode.microbit.org/_c2637VXcbfHP](https://makecode.microbit.org/_c2637VXcbfHP)<BR><P>
+MakeCode: [https://makecode.microbit.org/S26451-01818-60712-97331](https://makecode.microbit.org/S26451-01818-60712-97331)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:_c2637VXcbfHP" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S26451-01818-60712-97331" width="100%" height="500" frameborder="0"></iframe>
 
 
 ## Result

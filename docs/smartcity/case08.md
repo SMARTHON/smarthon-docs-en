@@ -77,7 +77,7 @@ Connect the Light Sensor to P0 port of IoT:bit<BR><P>
 ![auto_fit](images/Case8/Case8a_p4.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_P5fAujhip5Lh" target="_blank">https://makecode.microbit.org/_P5fAujhip5Lh</a>
+MakeCode: <a href="https://makecode.microbit.org/S97945-81984-90330-16668" target="_blank">https://makecode.microbit.org/S97945-81984-90330-16668</a>
 
 You could also download the program from the following website:<BR>
 ![auto_fit](images/Case8/Case8a_full_program.png)<P>
@@ -192,7 +192,7 @@ Connect the Traffic LED Module to P0 port of IoT:bit<BR><P>
 ![auto_fit](images/Case8/Case8b_p7.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_V5jcy5Pvm7hF" target="_blank">https://makecode.microbit.org/_V5jcy5Pvm7hF</a>
+MakeCode: <a href="https://makecode.microbit.org/S93752-54706-76998-71278" target="_blank">https://makecode.microbit.org/S93752-54706-76998-71278</a>
 
 ![auto_fit](images/Case8/Case8b_full_program.png)<P>
 

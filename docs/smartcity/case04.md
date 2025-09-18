@@ -69,7 +69,7 @@ Extend the connection of OLED to I2C connection port of IoT:bit<BR><P>
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_TiW9H7CuU5M5" target="_blank">https://makecode.microbit.org/_TiW9H7CuU5M5</a>
+MakeCode: <a href="https://makecode.microbit.org/S73074-92559-00368-70628" target="_blank">https://makecode.microbit.org/S73074-92559-00368-70628</a>
 
 ![pic_80](images/Case4/Case4_full_program.png)<P>
 

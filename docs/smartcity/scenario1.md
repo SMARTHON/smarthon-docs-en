@@ -51,10 +51,10 @@ Refer case 2, 4, 6, 7, 10
 
 **Scenario 1 Full Solution**
 
-MakeCode: [https://makecode.microbit.org/S94134-14708-47800-53355](https://makecode.microbit.org/S94134-14708-47800-53355)
+MakeCode: [https://makecode.microbit.org/S19945-42349-53404-83463](https://makecode.microbit.org/S19945-42349-53404-83463)
 <BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S94134-14708-47800-53355" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S19945-42349-53404-83463" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 
@@ -106,9 +106,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S68163-65360-26198-43002](https://makecode.microbit.org/S68163-65360-26198-43002)<BR><P>
+MakeCode: [https://makecode.microbit.org/S24820-05059-97092-01663](https://makecode.microbit.org/S24820-05059-97092-01663)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S68163-65360-26198-43002"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S24820-05059-97092-01663"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -250,10 +250,10 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 <span id="subtitle">Part 3 Full Solution:</span><p>
 ![auto_fit](./images/Sc1/Sc1_p24.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S79213-65820-89451-67480](https://makecode.microbit.org/S79213-65820-89451-67480)<BR><P>
+MakeCode: [https://makecode.microbit.org/S56225-17199-07352-27271](https://makecode.microbit.org/S56225-17199-07352-27271)<BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S79213-65820-89451-67480" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S56225-17199-07352-27271" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -300,10 +300,10 @@ When micro:bit is connected to WiFi, it will check weather information (temperat
 
 ![auto_fit](./images/Sc1/Sc1_p30.png)<p>
 
-MakeCode: [https://makecode.microbit.org/#S85955-97458-47560-51125](https://makecode.microbit.org/S85955-97458-47560-51125)<BR><P>
+MakeCode: [https://makecode.microbit.org/S05163-15392-66954-27282](https://makecode.microbit.org/S05163-15392-66954-27282)<BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S85955-97458-47560-51125" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S05163-15392-66954-27282" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -355,9 +355,9 @@ When WiFi is connected, if there is any suspicious movement near the door, an em
 
 ![auto_fit](./images/Sc1/Sc1_p36.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S94134-14708-47800-53355](https://makecode.microbit.org/S94134-14708-47800-53355)<BR><P>
+MakeCode: [https://makecode.microbit.org/S19945-42349-53404-83463](https://makecode.microbit.org/S19945-42349-53404-83463)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S94134-14708-47800-53355" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S19945-42349-53404-83463" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result</span><p>
 

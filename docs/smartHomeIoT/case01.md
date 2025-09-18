@@ -88,10 +88,10 @@ Assembly completed!<BR><P>
 ![pic_90](images/Case1/Case1_p2.png)<P>
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_MopaifFb42v5" target="_blank">https://makecode.microbit.org/_MopaifFb42v5</a><BR><P>
+MakeCode: <a href="https://makecode.microbit.org/S44525-40482-50586-80115" target="_blank">https://makecode.microbit.org/S44525-40482-50586-80115</a><BR><P>
 You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:_MopaifFb42v5" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="https://makecode.microbit.org/S44525-40482-50586-80115" width="100%" height="500" frameborder="0"></iframe>
 
 <P>
 

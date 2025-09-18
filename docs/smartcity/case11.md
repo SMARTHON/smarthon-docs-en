@@ -105,7 +105,7 @@ G (black) | G (brown)
 
 
 <span id="subtitle">Full Solution<BR><P>
-MakeCode: <a href="https://makecode.microbit.org/_6KyfVPJEd10A" target="_blank">https://makecode.microbit.org/_6KyfVPJEd10A</a>
+MakeCode: <a href="https://makecode.microbit.org/S49871-00186-31504-63747" target="_blank">https://makecode.microbit.org/S49871-00186-31504-63747</a>
 
 ![pic_100](images/Case11/Case11_full_program.png)<P>
 
