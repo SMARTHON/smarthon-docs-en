@@ -53,10 +53,10 @@ Refer case 9, 10, 11, 12, 13
 
 **Scenario 4 Full Solution:**
 
-MakeCode: [https://makecode.microbit.org/S89685-01693-81459-28013](https://makecode.microbit.org/S89685-01693-81459-28013)
+MakeCode: [https://makecode.microbit.org/S48632-70007-18098-20011](https://makecode.microbit.org/S48632-70007-18098-20011)
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S89685-01693-81459-28013"  width="100%" height="500" frameborder="0"></iframe><p><BR>
+<iframe src="https://makecode.microbit.org/S48632-70007-18098-20011"  width="100%" height="500" frameborder="0"></iframe><p><BR>
 
 ## Step By Step Tutorial
 <HR>
@@ -113,9 +113,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S57493-33550-64425-59615](https://makecode.microbit.org/S57493-33550-64425-59615)<BR><P>
+MakeCode: [https://makecode.microbit.org/S87148-59257-05819-14544](https://makecode.microbit.org/S87148-59257-05819-14544)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S57493-33550-64425-59615"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S87148-59257-05819-14544"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -187,10 +187,10 @@ After you connect to the Internet, the tick will open and start getting NTP time
 ![auto_fit](./images/Sc4/Sc4_p10.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S45857-45924-11958-57541](https://makecode.microbit.org/S45857-45924-11958-57541)<BR><P>
+MakeCode: [https://makecode.microbit.org/S12665-25593-41211-03672](https://makecode.microbit.org/S12665-25593-41211-03672)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S45857-45924-11958-57541" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S12665-25593-41211-03672" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -267,10 +267,10 @@ The OLED show the temperature, humidity, IAQ Score and the environment condition
 ![auto_fit](./images/Sc4/Sc4_p14.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S72737-24073-05539-26482](https://makecode.microbit.org/S72737-24073-05539-26482)<BR><P>
+MakeCode: [https://makecode.microbit.org/S14841-45665-70694-83433](https://makecode.microbit.org/S14841-45665-70694-83433)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S72737-24073-05539-26482" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S14841-45665-70694-83433" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -337,10 +337,10 @@ When the flame source is detected by the flame sensor, it will trigger to blink 
 ![auto_fit](./images/Sc4/Sc4_p16.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S33616-36337-43084-95613](https://makecode.microbit.org/S33616-36337-43084-95613)<BR><P>
+MakeCode: [https://makecode.microbit.org/S84631-72656-71417-43792](https://makecode.microbit.org/S84631-72656-71417-43792)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S33616-36337-43084-95613" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S84631-72656-71417-43792" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -388,10 +388,10 @@ After sending color messages from APPs, the color of light will change.
 ![auto_fit](./images/Sc4/Sc4_p18.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S89685-01693-81459-28013](https://makecode.microbit.org/S89685-01693-81459-28013)<BR><P>
+MakeCode: [https://makecode.microbit.org/S48632-70007-18098-20011](https://makecode.microbit.org/S48632-70007-18098-20011)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/#pub:S89685-01693-81459-28013" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S48632-70007-18098-20011" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result:</span><p>
 

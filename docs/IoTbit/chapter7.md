@@ -126,7 +126,14 @@ If any error message appears, please follow the instructions below and ***DO NOT
 
 <span id="subtitle">Available for ESP32</span><P>
 
-**Version 4.2 — 30 AUG 2024 (Latest version)**
+**Version 4.3 — 16 Aug 2025 (Latest version)**
+
+* Add the Blynk support for both write and read
+* http fix for post "" body handling
+
+Download: [<u>firmware_v4.3</u>](https://control.smarthon.cc/UpdateFW/4.3/firmware_v4_3.bin)
+
+**Version 4.2 — 30 Aug 2024**
 
 Features:‍
 * Add the IFTTT webhooks equivalent function
