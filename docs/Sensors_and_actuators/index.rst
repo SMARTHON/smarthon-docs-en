@@ -33,6 +33,7 @@ Sensors and actuators
     laser.md
     laser_dust.md
     water_quality.md
+    Ventilation_fan.md
     ..gas_sensor.md
     ..BME280.md
     ..Ph_sensor.md

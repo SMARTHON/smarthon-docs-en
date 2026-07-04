@@ -1,0 +1,103 @@
+# IoT Case 06: Environmental Anomaly Alert
+
+![auto_fit](images/case06/image10.png)
+## Goal
+<HR>
+
+Create  an email alert system that automatically notifies you when the environmental temperature falls outside the optimal range for plant growth.
+
+## Background
+<HR>
+
+<b>What is an Environmental Anomaly Alert?</b><P>
+
+An Environmental Anomaly Alert is a monitoring system designed to detect abnormal environmental conditions that may affect plant growth. It ensures that factors such as temperature and humidity remain within the ideal range for healthy plant development. When irregularities occur, the system notifies the user so that timely actions can be taken to restore optimal growing conditions.
+
+<b>Environmental Anomaly Alert Operation</b>
+
+The IoT board connects to a Wi-Fi network and uses a temperature and humidity sensor to monitor environmental conditions continuously. The current temperature readings are displayed on the OLED screen every 30 seconds. If the temperature stays outside the normal range for more than 25 cycles, the system triggers a signal to an IFTTT applet. This applet then sends an email notification to the user’s specified address and continues sending alerts until the temperature returns to the normal range.
+
+
+## Part List
+<HR>
+
+![auto_fit](images/case06/case06-parts.png)<P>
+
+
+## Assembly Steps
+<!-- 
+1. To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.
+![auto_fit](images/case06/image14.png)
+2. Connect the Module Stand with the Pot base.
+
+![auto_fit](images/case06/image7.png)
+3. Connect the Temperature and Humidity Sensor with a 3-pin module wire and install it under part C1.
+![auto_fit](images/case06/image199.png)
+![auto_fit](images/case06/image119.png)
+
+4. Put the model onto the pot tray and plastic mat. Completed\!
+
+![auto_fit](images/case06/image70.png)
+ -->
+## Hardware Connection
+<HR>
+
+1. Connect Temperature and Humidity Sensor to P2.  
+2. Connect LCD Display to I2C.
+
+![pic](images/case06/image32.png)<P>
+
+## Programming (MakeCode)
+<HR>
+
+MakeCode: [https://makecode.microbit.org/\_f1EWY3VVEF9T](https://makecode.microbit.org/_f1EWY3VVEF9T)   
+![auto_fit](images/case06/image92.png)<P>
+
+## IoT (IFTTT)
+<HR>
+
+1. Go to [https://ifttt.com](https://ifttt.com), register an account and login to the platform.
+
+![auto_fit](images/case06/image57.png)
+
+<P>
+2. On the top right menu, click “Create”.
+
+![auto_fit](images/case06/image61.png)
+
+<P>
+3. Create tigger by:  
+
+* Select “This”.  
+
+* Select Smarthon IoT (micro:bit).  
+
+* Select “IoT:bit was triggered”.  
+
+* Input IoT:bit’s device ID and Trigger Command “alert”.  
+
+* Click “Create trigger”.
+
+![auto_fit](images/case06/image82.png)
+
+<P>
+4. Create action by: 
+ 
+* Select “That”.  
+
+* Select Email.  
+
+* Select “Send me an email”.  
+
+* Input email Subject and Body.  
+
+* Click “Create action”.
+
+![auto_fit](images/case06/image134.png)
+
+## Result
+<HR>
+
+![auto_fit](images/case06/image44.png)
+![auto_fit](images/case06/image95.png)
+<P>
