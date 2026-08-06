@@ -22,26 +22,32 @@ The board connects to the Wi-Fi and displays a tick signal when successful. When
 ## Part List
 <HR>
 
-![auto_fit](images/case08/case08-parts.png)
+![auto_fit](images/case08/Case8.jpg)
 
 
 ## Assembly Steps
-<!-- 
-1. To start with, build the plant pot model with soil and seedling.
 
-![][image39]
+<span id="subtitle">Step 1</span><BR><P>
+Step 1. To start with, build the plant pot model with soil and seedling.<BR><P>
+![pic](images/case08/image14.png)<P>
 
-2. Connect the Fog Module with a 3-pin module wire. Install the Fog Module and Fog Accessories as shown in the pictures.
+<span id="subtitle">Step 2</span><BR><P>
+Connect the Fog Module with a 3-pin module wire. Install the Fog Module and Fog Accessories as shown in the pictures. (The detail sheps is shown on the pictures. Please follow the order of the pictures from left to right to do this step)
+<BR><P>
 
-![][image106]
+![pic](images/case08/Step4_combined.jpg)
 
-3. Put the Fog Module and Fog Accessories components into the Humidifier Cup.
+<span id="subtitle">Step 3</span><BR><P>
+Put the Fog Module and Fog Accessories components into the Humidifier Cup.<BR><P>
 
-![][image107]
+![pic](images/case08/Step3.png)
 
-4. Put the model onto the pot tray and plastic mat. Completed\!
+![pic](images/case08/Step3a.jpg)
 
-![][image147] -->
+<span id="subtitle">Step 4</span><BR><P>
+Put the model onto the pot tray and plastic mat. Completed!<BR><P>
+
+![pic](images/case08/Step4.jpg)
 
 ## Hardware Connection
 <HR>
@@ -100,4 +106,4 @@ MakeCode: [https://makecode.microbit.org/\_2kRdtYeAEThv](https://makecode.microb
 ## Result
 <HR>
 
-![auto_fit](images/case08/image143.jpg)<P>
+![auto_fit](images/case08/image93.gif)<P>

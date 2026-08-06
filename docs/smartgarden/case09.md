@@ -21,33 +21,48 @@ After setting up the model with the water pump and soil moisture sensor, it will
 ## Part List
 <HR>
 
-![auto_fit](images/case09/case09-parts.png)<P>
+![auto_fit](images/case09/Case9.jpg)<P>
 
-<!-- ## Assembly Steps
+## Assembly Steps
 
-1. To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.
+<span id="subtitle">Step 1</span><BR><P>To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.<BR><P>
+![pic](images/case09/image14.png)<P>
 
-![][image39]
+<span id="subtitle">Step 2</span><BR><P>Assemble D3 with D1.<BR><P>
 
-2. Install parts D1 and D2.
+![pic](images/case09/Step2.png)
 
-![][image157]    ![][image158]
+<span id="subtitle">Step 3</span><BR><P>Assemble D2 with the above part.<BR><P>
 
-3. Connect the water pump with the pump tube.
+![pic](images/case09/Step3.png)
 
-![][image159]
+![pic](images/case09/Step3a.png)
 
-4. Put the water pump into the pump cup, then insert the pump tube between D1 and D2 as shown in the picture.
+<span id="subtitle">Step 4</span><BR><P>Fixed it with two F.<BR><P>
 
-![][image160]
+![pic](images/case09/Step4.png)
 
-5. Connect the soil moisture sensor with a 3-pin module wire and put it into the soil.
+<span id="subtitle">Step 5</span><BR><P> Assemble the above part with the plant pot.<BR><P>
 
-![][image161]
+![pic](images/case09/Step5.png)
 
-6. Put the model onto the pot tray and plastic mat. Completed\!
+<span id="subtitle">Step 6</span><BR><P>Connect the water pump with the pump tube.<BR><P>
 
-![][image162] -->
+![pic](images/case09/Step6.png)
+
+<span id="subtitle">Step 7</span><BR><P>Put the water pump into the pump cup, then insert the pump tube between D1 and D2 as shown in the picture.<BR><P>
+
+![pic](images/case09/Step7.jpg)
+
+![pic](images/case09/Step7a.png)
+
+<span id="subtitle">Step 8</span><BR><P>Connect the soil moisture sensor with a 3-pin module wire and put it into the soil.<BR><P>
+
+![pic](images/case09/Step8.png)
+
+<span id="subtitle">Step 9</span><BR><P>Put the model onto the pot tray and plastic mat. Completed!<BR><P>
+
+![pic](images/case09/Step9.jpg)
 
 ## Hardware Connection
 <HR>
@@ -217,7 +232,7 @@ MakeCode: [https://makecode.microbit.org/\_gxY2b6FhcHmp](https://makecode.microb
 ## Result
 <HR>
 
-![auto_fit](images/case09/image101.jpg)<P>
+![auto_fit](images/case09/image163.gif)<P>
 ![auto_fit](images/case09/image117.png)<P>
 ![auto_fit](images/case09/image164.jpg)
 <P>

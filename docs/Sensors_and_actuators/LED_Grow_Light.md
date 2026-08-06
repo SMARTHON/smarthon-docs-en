@@ -55,8 +55,8 @@ Size: 12mm X 87mm
 * Connect the LED Grow Light to the development board using wire <P>
 ![pic_60](images/LED_Grow_Light_3.png) <P>
 
-* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/LED_Grow_Light_4.png) <P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT <P>
+![pic_80](images/smartgardengithub.png) <P>
 
 * Initialize 10 LEDs and set the LEDs to show purple <P>
 ![pic_80](images/LED_Grow_Light_5.png) <P>

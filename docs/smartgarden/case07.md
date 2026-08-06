@@ -22,26 +22,32 @@ Plants need consistent care, but people living in cities often lead busy lives a
 ## Part List
 <HR>
 
-![auto_fit](images/case07/case07-parts.png)<P>
+![auto_fit](images/case07/Case7.jpg)<P>
 
 ## Assembly Steps
-<!-- 
-1. To start with, build the plant pot model with soil and seedling.
 
-![auto_fit](images/case07/image14.png)
+<span id="subtitle">Step 1</span><BR><P>
+To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.<BR><P>
+![pic](images/case07/image14.png)<P>
 
-2. Connect the Module Stand with the Pot base.
 
-![auto_fit](images/case07/image7.png)
+<span id="subtitle">Step 2</span><BR><P>
+Step 2. Connect the Module Stand with the Pot base.<BR><P>
 
-3. Insert screw with grow light led to part C1.
+![pic](images/case07/Step2.jpg)
 
-![auto_fit](images/case07/image45.png)
+![pic](images/case07/Step2a.png)
 
-4. Put the model onto the pot tray and plastic mat. Completed\!
+<span id="subtitle">Step 3</span><BR><P>
+Insert screw with grow light led to part C1.<BR><P>
 
-![auto_fit](images/case07/image132.jpg)
- -->
+![pic](images/case07/Step3.png)
+
+<span id="subtitle">Step 4</span><BR><P>
+Put the model onto the pot tray and plastic mat. Completed!<BR><P>
+
+![pic](images/case07/Step4.jpg)
+
 ## Hardware Connection
 <HR>
 
@@ -106,7 +112,6 @@ MakeCode: [https://makecode.microbit.org/\_0KE9J63x5Ezr](https://makecode.microb
 <HR>
 
 The LED Grow Light turns on when IFTTT sends the command “light\_on” to the micro:bit at 6:00 PM every day.  
-![auto_fit](images/case07/image33.jpg)<P>
 
 The LED Grow Light turns off when IFTTT sends the command “light\_off” to the micro:bit at 1:00 AM every day.  
-![auto_fit](images/case07/image175.jpg)<P>
+![auto_fit](images/case07/image235.gif)<P>

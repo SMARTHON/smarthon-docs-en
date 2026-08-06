@@ -62,8 +62,8 @@ Length: 35cm, Inner diameter: 6mm
 * Place the water pump under water vertically.
 ![pic_70](images/Water_pump_8.jpg)<P>
 
-* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/Water_pump_9.png)<P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT <P>
+![auto_fit](images/smartgardengithub.png)<P>
 
 * Set different buttons to on/off the water pump
 ![pic_60](images/Water_pump_10.png)

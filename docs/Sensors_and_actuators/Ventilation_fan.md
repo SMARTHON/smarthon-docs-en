@@ -62,9 +62,9 @@ Size: 50mm \* 50mm
 
 ![image6](images/Ventilation_fan/image2.png)
 
--  Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT
+-  Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT
 
-![image7](images/Ventilation_fan/image10.png)
+![auto_fit](images/smartgardengithub.png)
 
 -  Set different buttons to turn on/off the ventilation fan through \[digital write pin P1 to 1/0\], where Press A button  means on.
 
@@ -86,4 +86,3 @@ Press B button the turn off the ventilation fan (set to digital 0)
 Q : What is the difference between a ventilation fan and a motor fan?
 
 A : A ventilation fan is designed to exchange indoor air with fresh outdoor air. It turns clockwise. A motor fan typically refers to the internal electric motor that drives the blades,it turns clockwise and anti counter clock wise.
-

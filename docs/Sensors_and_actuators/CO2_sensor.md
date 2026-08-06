@@ -17,8 +17,113 @@ When it is in clean air, the sensitive layer absorbs oxygen in air. Oxygen attra
 
 When it is in polluted air, oxygen is reduced by the pollutants. Electrons are released and there is more flow of electrons in the sensitive layer. The oxidation will lower the resistance. <P>
 
+
+## Indoor CO2 Levels
+
+<H3>Pinout Table</H3>
+
+<div style="overflow-x: scroll;">
+<style type="text/css">
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ux7d{background-color:#c0c0c0;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;
+  vertical-align:middle}
+.tg .tg-l89d{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;vertical-align:middle}
+.tg .tg-j1bp{background-color:#efefef;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;
+  vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
+<colgroup>
+<col style="width: 98.008404px">
+<col style="width: 95.008404px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-ux7d">CO2 [ppm]</th>
+    <th class="tg-ux7d">Air Quality</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l89d">2100</td>
+    <td class="tg-l89d" rowspan="6">BAD Heavily conraminated indoor air Ventilation required</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">2000</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">1900</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">1800</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">1700</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">1600</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">1500</td>
+    <td class="tg-l89d" rowspan="5">MEDIOCRE Contaminated indoor air Ventilation recommended</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">1400</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">1300</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">1200</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">P1100</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">1000</td>
+    <td class="tg-l89d" rowspan="2">FAIR</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">900</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">800</td>
+    <td class="tg-l89d" rowspan="2">GOOD</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">700</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">600</td>
+    <td class="tg-l89d" rowspan="3">EXCELLENT</td>
+  </tr>
+  <tr>
+    <td class="tg-j1bp">500</td>
+  </tr>
+  <tr>
+    <td class="tg-l89d">400</td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+</div>
+<P>
+
 ![pic_40](images/CO2_sensor_2.png)
 The lower resistance is, the higher the reading would be.
+
+photo ref:
+[https://atmotube.com/atmotube-support/how-does-atmotube-voc-sensor-work](https://atmotube.com/atmotube-support/how-does-atmotube-voc-sensor-work)
+[https://www.youtube.com/watch?v=hX5kLqPe8nc](https://www.youtube.com/watch?v=hX5kLqPe8nc)
+
+ref:
+[https://docs.smartcitizen.me/Components/sensors/air/CCS811/#working-principle](https://docs.smartcitizen.me/Components/sensors/air/CCS811/#working-principle)
+[https://www.youtube.com/watch?v=hX5kLqPe8nc](https://www.youtube.com/watch?v=hX5kLqPe8nc)
 
 
 ## Specification
@@ -54,7 +159,7 @@ Size: 25mm X 25mm
 * Connect the CO<sub>2</sub>  sensor to development board (using wire) <P>
 ![pic_60](images/CO2_sensor_4.png) <P>
 
-* Open Makecode, using the https://github.com/SMARTHON/pxt-advancedSensor PXT <P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-advancedSensor] PXT <P>
 ![auto_fit](images/CO2_sensor_5.png) <P>
 
 * Show the CO<sub>2</sub> and TVOC on the OLED <P>

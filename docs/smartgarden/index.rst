@@ -1,10 +1,9 @@
 Smarthon Smart Garden AIoT Farmer Kit
 ======================================
 
-
 .. toctree::
     :maxdepth: 1
-    :numbered: 3
+    :numbered:
 
     Introduction.md
     add_ext.md
@@ -20,3 +19,4 @@ Smarthon Smart Garden AIoT Farmer Kit
     case08.md
     case09.md
     case10.md
+    Smarthon Greenhouse Add-On Kit <../SmarthonGreenhouseAddOnKit/index.html#://>

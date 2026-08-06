@@ -56,8 +56,8 @@ Length of wire: 10cm
 * Place the disc on the surface of water. The side with piezoelectric ceramic should face upwards.
 ![pic_70](images/Fog_module_8.png) <P>
 
-* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/Fog_module_10.png) <P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT <P>
+![auto_fit](images/smartgardengithub.png) <P>
 
 * Show the light intensity on the OLED <P>
 ![pic_60](images/Fog_module_11.png) <P>

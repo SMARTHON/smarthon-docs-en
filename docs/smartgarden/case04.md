@@ -20,6 +20,8 @@ The Automatic Humidity Control system measures humidity levels and efficiently a
 
 The LCD screen displays the humidity in the room. Whenever the humidity sensor detects the lack of humidity in the room the fog modules turn on. The led lights on microbit correspond to the operation of the fog module, starlike pattern when module is on, a single dot when the module is off. Whenever the humidity in the room rises to the appropriate level, the fog module turns off. 
 
+![pic](images/case04/flowchart.png)
+
 <b>Know More: Why is Humidity Control Important for Plant Growth?</b>
 
 Humidity control is crucial for plant growth because it directly affects transpiration, nutrient uptake and disease prevention.
@@ -33,7 +35,7 @@ Too high humidity promotes fungal diseases like mold, while too low causes wilti
 ## Part List
 <HR>
 
-![alt="auto_fit"](images/case04/case04_parts.png)<P>
+![alt="auto_fit"](images/case04/Case4.jpg)<P>
 
 ## Assembly Steps
 
@@ -44,9 +46,9 @@ To start with, build the plant pot model with soil and seedling. Install the LCD
 <span id="subtitle">Step 2</span><BR><P>
 Connect the Module Stand with the Pot base.<BR><P>
 
-![pic](images/case04/Step2.jpg)
-
 ![pic](images/case04/Step2a.png)
+
+![pic](images/case04/Step2.jpg)
 
 <span id="subtitle">Step 3</span><BR><P>
 Connect the Temperature and Humidity Sensor with a 3-pin module wire and install it under part C1.<BR><P>
@@ -60,9 +62,9 @@ Install the Fog Module and Fog Accessories as shown in the pictures.<BR><P>
 <span id="subtitle">Step 5</span><BR><P>
 Put the Fog Module and Fog Accessories components into the Humidifier Cup.<BR><P>
 
-![pic](images/case04/Step5.jpg)
-
 ![pic](images/case04/Step5a.png)
+
+![pic](images/case04/Step5.jpg)
 
 <span id="subtitle">Step 6</span><BR><P>
 Put the model onto the pot tray and plastic mat. Completed!<BR><P>
@@ -81,11 +83,11 @@ Put the model onto the pot tray and plastic mat. Completed!<BR><P>
 ## Programming (MakeCode)
 <HR>
 
-MakeCode: [https://makecode.microbit.org/\_1hKYuFTH7Rri](https://makecode.microbit.org/_1hKYuFTH7Rri)   
+MakeCode: [https://makecode.microbit.org/_20Y9w4CWTKjm](https://makecode.microbit.org/_20Y9w4CWTKjm)   
 ![pic](images/case04/image88.png)<P>
 
 ## Result
 <HR>
 
-![pic](images/case04/image163.jpg)
+![pic](images/case04/image111.gif)
 <P>

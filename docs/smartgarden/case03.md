@@ -17,6 +17,8 @@ Smart LED grow light helps the plant by tracking the lighting conditions and tur
 
 We will use a light sensor to track the light intensity near the plant. Whenever the light intensity falls under a specific number, the board enables the LED to grow light that will shine on the plant. When we have enough light in the system, the LED will turn off. 
 
+![pic](images/case03/flowchart.png)
+
 <b>Know More: Why Is Light Important for Plant Growth?</b>
 
 Light drives photosynthesis, converting CO₂ and water into energy-rich sugars that provide nutrients for plant growth. It also regulates the growth of plants by influencing leaf expansion, root development and chlorophyll production through its intensity, duration and spectrum. Moreover, plants rely on daylight length to trigger key stages such as flowering, seed formation and dormancy. The existence of light ensures they grow in harmony with seasonal changes.
@@ -26,10 +28,7 @@ Light drives photosynthesis, converting CO₂ and water into energy-rich sugars 
 ## Part List
 <HR>
 
- ![alt="auto_fit"](images/case03/case03_parts.png)<P>
-
-
-
+![alt="auto_fit"](images/case03/Case3.jpg)<P>
 
 ## Assembly Steps
 
@@ -40,9 +39,9 @@ To start with, build the plant pot model with soil and seedling. Install the LCD
 <span id="subtitle">Step 2</span><BR><P>
 Connect the Module Stand with the Pot base.<BR><P>
 
-![auto_fit](images/case03/Step2.jpg)
-
 ![auto_fit](images/case03/Step2a.png)
+
+![auto_fit](images/case03/Step2.jpg)
 
 <span id="subtitle">Step 3</span><BR><P>
 Connect the Digital Light Sensor with a 4-pin module wire and install it above part C1.<BR><P>
@@ -71,13 +70,18 @@ Put the model onto the pot tray and plastic mat. Completed!<BR><P>
 ## Programming (MakeCode)
 <HR>
 
-MakeCode: [https://makecode.microbit.org/\_Pdx3Ym82tJiW](https://makecode.microbit.org/_Pdx3Ym82tJiW)   
+MakeCode: [https://makecode.microbit.org/_9Pc5t3HVYXzy](https://makecode.microbit.org/_9Pc5t3HVYXzy)   
   ![alt="auto_fit"](images/case03/image46.png)<P>
 
-Advanced \- time control: [https://makecode.microbit.org/\_PR8RhLVMWfJx](https://makecode.microbit.org/_PR8RhLVMWfJx)   
- ![alt="auto_fit"](images/case03/image130.png)<P>
+Optional: Turn on the light at least 12 hours every day
+
+If every day at 6 am to 7 pm, it will check whether light intensity is high enough. If low, turn on the light. In the program below, please set your current hour to the variable in on start.
+
+![alt="auto_fit"](images/case03/image130.png)<P>
+
+Makecode: [https://makecode.microbit.org/_2wDYCrAyVAsH](https://makecode.microbit.org/_2wDYCrAyVAsH)
 
 ## Result
 <HR>
 
-  ![alt="auto_fit"](images/case03/image94.gif)<P>
+  ![alt="auto_fit"](images/case03/image158.gif)<P>

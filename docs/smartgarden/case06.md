@@ -21,24 +21,33 @@ The IoT board connects to a Wi-Fi network and uses a temperature and humidity se
 ## Part List
 <HR>
 
-![auto_fit](images/case06/case06-parts.png)<P>
+![auto_fit](images/case06/Case6.jpg)<P>
 
 
 ## Assembly Steps
-<!-- 
-1. To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.
-![auto_fit](images/case06/image14.png)
-2. Connect the Module Stand with the Pot base.
 
-![auto_fit](images/case06/image7.png)
-3. Connect the Temperature and Humidity Sensor with a 3-pin module wire and install it under part C1.
-![auto_fit](images/case06/image199.png)
-![auto_fit](images/case06/image119.png)
+<span id="subtitle">Step 1</span><BR><P>
+To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.<BR><P>
+![pic](images/case06/image14.png)<P>
 
-4. Put the model onto the pot tray and plastic mat. Completed\!
 
-![auto_fit](images/case06/image70.png)
- -->
+<span id="subtitle">Step 2</span><BR><P>
+Connect the Module Stand with the Pot base.<BR><P>
+
+![pic](images/case06/Step2.jpg)
+
+![pic](images/case06/Step2a.png)
+
+<span id="subtitle">Step 3</span><BR><P>
+Connect the Temperature and Humidity Sensor and Digital Light Sensor with a 3-pin and 4-pin module wire, respectively. Install them on part C1.<BR><P>
+
+![pic](images/case06/Step3.png)
+
+<span id="subtitle">Step 4</span><BR><P>
+Put the model onto the pot tray and plastic mat. Completed!<BR><P>
+
+![pic](images/case06/Step4.jpg)
+
 ## Hardware Connection
 <HR>
 

@@ -17,6 +17,9 @@ Quick Start Guide
     smartcity/index
     smartHomeIoT/index
     ..smartgarden/index
+    ..SmarthonGreenhouseAddOnKit/index
+    ..SmarthonCameraAddOnKit/index
+    ..smarthouse/index
     ..smartPlantIoT/index
     Sensors_and_actuators/index
     ..smarthouse/index

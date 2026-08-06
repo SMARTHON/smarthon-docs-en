@@ -21,31 +21,38 @@ After setting up the workflow with the data collection node and AI model node, i
 ## Part List
 <HR>
 
-![pic](images/case10/case10-parts.png)<P>
+![pic](images/case10/Case10.jpg)<P>
 
 ## Assembly Steps
-<!-- 
-6. To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.
 
-![pic](images/case10/imagepng)
+<span id="subtitle">Step 1</span><BR><P>
+To start with, build the plant pot model with soil and seedling. Install the LCD Display during the build.<BR><P>
+![pic](images/case04/image14.png)<P>
 
-7. Connect the Module Stand with the Pot base.
 
-![pic](images/case10/imagepng)
+<span id="subtitle">Step 2</span><BR><P>
+Connect the Module Stand with the Pot base.<BR><P>
 
-8. Connect the Temperature and Humidity Sensor and Digital Light Sensor with a 3-pin and 4-pin module wire respectively. Install them on part C1, with the Digital Light Sensor above and the Temperature Humidity Sensor below the part.
-![pic](images/case10/imagepng)
-![pic](images/case10/imagepng)
-![pic](images/case10/imagepng)
+![pic](images/case04/Step2.jpg)
 
-9. Connect the soil moisture sensor with a 3-pin module wire and put it into the soil.
+![pic](images/case10/Step2a.png)
 
-![pic](images/case10/imagepng)
+<span id="subtitle">Step 3</span><BR><P>
+Connect the Temperature and Humidity Sensor and Digital Light Sensor with a 3-pin and 4-pin module wire respectively. Install them on part C1, with the Digital Light Sensor above and the Temperature Humidity Sensor below the part.<BR><P>
 
-10. Put the model onto the pot tray and plastic mat. Completed\!
+![pic](images/case10/Step3.png)
 
-![pic](images/case10/imagepng) -->
+![pic](images/case10/Step3a.jpg)
 
+<span id="subtitle">Step 4</span><BR><P>
+Connect the soil moisture sensor with a 3-pin module wire and put it into the soil.<BR><P>
+
+![pic](images/case10/Step4.jpg)
+
+<span id="subtitle">Step 5</span><BR><P>
+Put the model onto the pot tray and plastic mat. Completed!<BR><P>
+
+![pic](images/case10/Step5.jpg)
 
 ## Hardware Connection
 <HR>
@@ -157,6 +164,6 @@ Remember to paste the URL enter the makecode block.
 <HR>
 
 Download the program to the micro:bit. Click “Execute workflow” in n8n. Press Button A on the micro:bit. After data is uploaded to the webhook, AI analysis will be completed automatically, and a growth report will be sent to your email.  
-![pic](images/case10/image1.png)<P>
+![pic](images/case10/image236.gif)<P>
 
 ![pic](images/case10/image41.png)<P>

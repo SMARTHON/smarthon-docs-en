@@ -17,6 +17,8 @@ Automatic Irrigation System tracks the soil moisture in real time using a sensor
 
 The soil moisture sensor is embedded in the plant pot. Whenever the soil moisture gets low, the water pump is triggered, and pumps water through a tube that water the plant until the soil moisture level is satisfactory, upon which the pump stops. 
 
+![pic](images/case02/flowchart.png)
+
 <b>Know More: Why is Water Important for Plant Growth?</b>
 
 Water provides the hydrogen ions needed in photosynthesis to convert sunlight into energy. It also dissolves minerals from the soil and transports them through the plant's vascular system (xylem) to different parts of the plant, supporting overall growth.
@@ -28,7 +30,7 @@ Additionally, water maintains turgor pressure in cells, keeping plants upright a
 ## Part List
 <HR>
 
-![alt="auto_fit"](images/case02/case02_parts.png)<P>
+![alt="auto_fit"](images/case02/Case2.jpg)<P>
 
 ## Assembly Steps
 
@@ -43,9 +45,9 @@ Assemble D1 with D3.<BR><P>
 <span id="subtitle">Step 3</span><BR><P>
 Assemble D2 with the above part.<BR><P>
 
-![pic](images/case02/Step3.png)
-
 ![pic](images/case02/Step3a.png)
+
+![pic](images/case02/Step3.png)
 
 <span id="subtitle">Step 4</span><BR><P>
 Fixed them with two F. Complete this part!.<BR><P>
@@ -91,17 +93,20 @@ Keep the water tube end higher than the water level in the cup to prevent the si
 ## Programming (MakeCode)
 <HR>
 
-MakeCode: [https://makecode.microbit.org/\_fh8PjhV7cXPp](https://makecode.microbit.org/_fh8PjhV7cXPp)   
+MakeCode: [https://makecode.microbit.org/_gDiRMXKwzXaf](https://makecode.microbit.org/_gDiRMXKwzXaf)   
 ![pic](images/case02/image1.png)<P>
 
-Advanced \- time control: [https://makecode.microbit.org/\_V0gEzw1bhDtH](https://makecode.microbit.org/_V0gEzw1bhDtH)   
+Optional: Pump water once every day
+
+If every day at 8 am, it will check whether soil moisture sensor is low. If low, will pump water.
 ![pic](images/case02/image15.png)<P>
+MakeCode: [https://makecode.microbit.org/_XXWT91M2vddr](https://makecode.microbit.org/_XXWT91M2vddr) 
 
 
 ## Result
 <HR>
 
-![auto_fit](images/case02/image153.jpg)
+![auto_fit](images/case02/image219.gif)
 
 ## Think
 <HR>

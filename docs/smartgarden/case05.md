@@ -19,10 +19,12 @@ Monitoring plant data is immensely important. However, if you will only monitor 
 
 The pot is mounted with three modules: temperature and humidity sensor, soil moisture sensor, light intensity sensor. The board attempts to connect to the internet, and if it is connected successfully the sensor readings are sent to thingspeak. Afterwards there is a 15 second break. After the break, the cycle repeats.
 
+![pic](images/case05/flowchart.png)
+
 ## Part List
 <HR>
 
-![alt="auto_fit"](images/case05/case05_parts.png)<P>
+![alt="auto_fit"](images/case05/Case5.jpg)<P>
 
 ## Assembly Steps
 
@@ -34,9 +36,9 @@ To start with, build the plant pot model with soil and seedling. Install the LCD
 <span id="subtitle">Step 2</span><BR><P>
 Connect the Module Stand with the Pot base.<BR><P>
 
-![pic](images/case04/Step2.jpg)
+![pic](images/case04/Step2a.png)
 
-![pic](images/case05/Step2a.png)
+![pic](images/case05/Step2.jpg)
 
 <span id="subtitle">Step 3</span><BR><P>
 Connect the Temperature and Humidity Sensor and Digital Light Sensor with a 3-pin and 4-pin module wire, respectively. Install them on part C1, with the Digital Light Sensor above and the Temperature Humidity Sensor below the part.<BR><P>
@@ -68,7 +70,7 @@ Connect the soil moisture sensor with a 3-pin module wire and put it into the so
 ## Programming (MakeCode)
 <HR>
 
-MakeCode: [https://makecode.microbit.org/\_bRoabr5MFWD5](https://makecode.microbit.org/_bRoabr5MFWD5)   
+MakeCode: [https://makecode.microbit.org/_LzThHDRXg3HC](https://makecode.microbit.org/_LzThHDRXg3HC)  
 ![pic](images/case05/image69.png)<P>
 
 ## IoT (ThingSpeak)
@@ -99,6 +101,6 @@ MakeCode: [https://makecode.microbit.org/\_bRoabr5MFWD5](https://makecode.microb
 ## Result
 <HR>
 
-![pic](images/case05/image136.jpg)<P>
+![pic](images/case05/image50.gif)<P>
 
 ![pic](images/case05/image191.png)<P>

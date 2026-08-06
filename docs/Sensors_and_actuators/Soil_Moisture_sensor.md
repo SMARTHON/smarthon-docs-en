@@ -49,8 +49,8 @@ Size: 35mm X 70mm
 * Connect the soil moisture sensor to development board (using wire)
 ![pic_80](images/Soil_Moisture_sensor_4.png)<P>
 
-* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/Soil_Moisture_sensor_5.png)<P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT <P>
+![auto_fit](images/smartgardengithub.png)<P>
 
 * Initial the OLED screen and show the reading of the soil moisture level
 ![pic_70](images/Soil_Moisture_sensor_6.png)<P>

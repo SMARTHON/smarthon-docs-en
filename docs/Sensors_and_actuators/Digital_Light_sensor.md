@@ -50,8 +50,8 @@ Size: 25mm X 25mm
 * Connect the digital light sensor to development board (using wire) <P>
 ![pic_60](images/digital_light/Digital_Light_Sensor_3_1.png) <P>
 
-* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartplant](https://github.com/SMARTHON/pxt-smartplant) PXT <P>
-![pic_80](images/digital_light/Digital_Light_Sensor_4.png) <P>
+* Open Makecode, using the [https://github.com/SMARTHON/pxt-smartgarden](https://github.com/SMARTHON/pxt-smartgarden) PXT <P>
+![auto_fit](images/smartgardengithub.png) <P>
 
 * Show the light intensity on the OLED <P>
 ![auto_fit](images/digital_light/Digital_Light_Sensor_5.png) <P>

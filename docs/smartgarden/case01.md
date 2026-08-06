@@ -16,9 +16,7 @@ Create a grow light that can be turned to different colors using the buttons on 
 
 Grow LED Light Color Control allows you to experiment and observe the effects of different colors of light on plant growth. With our multicolor LED, you can choose out of many different colors. By way of experimentation, you can determine a combination of blue and red lights which make purple, is the most efficient light for the plant. 
 
-<b>Grow LED Light Color Control Operation</b>
-
-The light can assume one of three colors, blue, red or purple. By pressing button “A” the color will turn red. By pressing button “B”, the color will turn blue. By pressing both of the buttons the color will turn purple due to the combination of blue and red. 
+![auto_fit](images/case01/01concept.png)
 
 <b>Know More: Effect on Plant with Different Light Color</b>
 
@@ -32,9 +30,8 @@ As a result, plants exposed to red or blue light typically grow faster and produ
 
 
 ## Part List
-<HR>
 
-![pic](images/case01/parts.png)<P>
+![auto_fit](images/case01/Case1.jpg)<P>
 
 ## Assembly Steps
 
@@ -73,7 +70,7 @@ MakeCode: [https://makecode.microbit.org/\_Rkv31xWpm3ae](https://makecode.microb
 ## Result
 <HR>
 
-![pic](images/case01/image48.gif)<P>
+![pic](images/case01/image238.gif)<P>
 
 ## Think
 <HR>
