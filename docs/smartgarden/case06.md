@@ -17,11 +17,13 @@ An Environmental Anomaly Alert is a monitoring system designed to detect abnorma
 
 The IoT board connects to a Wi-Fi network and uses a temperature and humidity sensor to monitor environmental conditions continuously. The current temperature readings are displayed on the OLED screen every 30 seconds. If the temperature stays outside the normal range for more than 25 cycles, the system triggers a signal to an IFTTT applet. This applet then sends an email notification to the user’s specified address and continues sending alerts until the temperature returns to the normal range.
 
+![pic](images/case06/flowchart.png)
+
 
 ## Part List
 <HR>
 
-![auto_fit](images/case06/Case6.jpg)<P>
+![auto_fit](images/Case6.jpg)<P>
 
 
 ## Assembly Steps
@@ -58,6 +60,54 @@ Put the model onto the pot tray and plastic mat. Completed!<BR><P>
 
 ## Programming (MakeCode)
 <HR>
+
+<span id="subtitle">Step 1:Initialize OLED, LCD, IoT:bit and connect to WiFi</span><BR><P>
+
+* Snap Initialize OLED with width:128, height: 64 to on start
+* Snap Set Wi-Fi to ssid pwd from IoT:bit
+* Enter your Wi-Fi name and password. Here we set smarthon as SSID and 12345678 as password
+* Snap initialize LCD at I2C with connects and powers up the 16x2 LCD screen using the I2C communication protocol so it can display text.
+
+![auto_fit](images/case06/1.png)
+
+<span id="subtitle">Step 2: Show icon “tick”  and device ID after WiFi connection</span><BR><P>
+
+* In On WiFi connected, put a show icon tick get notice after WiFi is connected
+* Show string deviceID after show icon tick
+
+![pic](images/case06/2.png)
+
+<span id="subtitle">Step 3: Read the data, set variable and show the data</span><BR><P>
+
+* In forever, put a if statement and use WiFi connect? as condition
+* Read the data by read temperature & humidity sensor at pin P2
+* Set the variable to get the value, which is temperature
+* LCD show join Temp: temperature for temperature
+
+![pic](images/case06/3.png)
+
+<span id="subtitle">Step 4: Examine the light intensity value and reaction</span><BR><P>
+
+* Snap a nested if statement under the LCD show
+* Set temperature < 21 or temperature > 29 as the condition
+* Set the variable counter and change counter by 1 under the condition
+* Snap an if statement under the change counter
+* Set counter >= 25 as condition
+* Send the data to Thingspeak by Send Thingspeak key XXXX field1 value XXX ..., fill in the write API key from the Thingspeak channel and the values need to be upload
+* If temperature in the range 21-29, set counter to 0
+* Wait for 300 second to avoid upload too frequently by pause(ms) 300000, then start another Reading and uploading
+
+![pic](images/case06/4.png)
+
+<span id="subtitle">Step 5: Check Thingspeak upload status</span><BR><P>
+
+* To check the uploading status, use On thingspeak Uploaded to get the uploading result
+* Insert clear OLED display for better visual effect
+* Use the Status and Error_code from block placeholder respectively to showing some text explanation
+* show string join Thingseak: Status for Upload status
+* show string join Error: Error_code for Error code if upload failed
+
+![pic](images/case06/5.png)
 
 MakeCode: [https://makecode.microbit.org/\_f1EWY3VVEF9T](https://makecode.microbit.org/_f1EWY3VVEF9T)   
 ![auto_fit](images/case06/image92.png)<P>
@@ -107,6 +157,5 @@ MakeCode: [https://makecode.microbit.org/\_f1EWY3VVEF9T](https://makecode.microb
 ## Result
 <HR>
 
-![auto_fit](images/case06/image44.png)
-![auto_fit](images/case06/image95.png)
+![auto_fit](images/case06/case6_v3_reduce.gif)
 <P>

@@ -35,12 +35,14 @@ There are three primary methods of planting: starting from seeds, transplanting 
 
 ## Points to Note
 <BR>
-1. Before sowing seeds, optionally soak them in warm water for 4-6 hours to speed up germination. Then, dampen a paper towel with water in a shallow plate and place the soaked seeds on top. Cover with a thin perforated plastic sheet. The seeds will germinate, after which you can transplant them to pots using Method 1 for further growth.  
+1. Before sowing seeds, optionally soak them in warm water for 4-6 hours to speed up germination. Then, dampen a paper towel with water in a shallow plate and place the soaked seeds on top. Cover with a thin perforated plastic sheet. The seeds will germinate, after which you can transplant them to pots using Method 1 for further growth.
+
   ![pic](images/howtoplant/image204.png)
   ![pic](images/howtoplant/image66.png)
 <P>
 <BR>
-2. When planting from seeds, consider using a seedling pot to ensure successful germination. Once the seeds have sprouted, you can transplant the seedlings into larger pots following Method 2 for continued growth.  
+2. When planting from seeds, consider using a seedling pot to ensure successful germination. Once the seeds have sprouted, you can transplant the seedlings into larger pots following Method 2 for continued growth. 
+ 
   ![pic](images/howtoplant/image146.jpg)<P>  
 <BR>
 3. When planting with new soil, water it thoroughly first to provide enough moisture for healthy plant growth. Ensure the soil fully absorbs the water before proceeding to the next step. Its volume will shrink noticeably afterward, often by about half the original amount.  

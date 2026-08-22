@@ -18,7 +18,7 @@ Grow LED Light Color Control allows you to experiment and observe the effects of
 
 ![auto_fit](images/case01/01concept.png)
 
-<b>Know More: Effect on Plant with Different Light Color</b>
+<span id="subtitle">Know More: Effect on Plant with Different Light Color</span><P>
 
 Light is one of the most important aspects of plant growth. The use of supplemental grow lights is essential when you are considering cultivating plants at home. However, what many do not realise is that different colors of light have different effects on the growth of the plant.
 
@@ -26,7 +26,7 @@ Light color affects plant growth because different wavelengths of light influenc
 
 As a result, plants exposed to red or blue light typically grow faster and produce more glucose, while those under green light show slower growth. Therefore, by adjusting light colours through LED grow lights, growers can effectively influence plant growth rate.
 
-![alt="auto_fit"](images/case01/image91.png)
+![auto_fit](images/case01/image91.png)
 
 
 ## Part List
@@ -61,8 +61,52 @@ Complete!<BR><P>
 1. Connect LED Grow Light to P1.
 
 ![pic](images/case01/image73.png)
+
 ## Programming (MakeCode)
 <HR>
+
+<span id="subtitle">Step 1. Program Startup</span><BR><P>
+
+* Snap `set strip to NeoPixel at pin P1 with 10 leds as RGB (GRB format)`
+* Set Brightness: `strip set brightness 255`
+
+![pic](images/case01/1.png)
+
+<span id="subtitle">Step 2: Pressing Button A </span><BR><P>
+
+* Snap `on button A pressed`
+* Snap `strip show color red`
+* Instantly updates all 10 LEDs on the strip to solid Red.
+
+![pic](images/case01/2.png)
+
+<span id="subtitle">Step 3: Pressing Button B </span><BR><P>
+
+* Snap `on button B pressed`
+* Snap `strip show color green`
+* Instantly updates all 10 LEDs on the strip to solid Green.
+
+![pic](images/case01/3.png)
+
+<span id="subtitle">Step 4:  Pressing Buttons A + B Together </span><BR><P>
+
+* Snap `on button A+B pressed`
+* Snap `strip set pixel color`
+* Assign Individual Pixel Colors in Memory:
+    Pixel 0: Red
+    Pixel 1: Red
+    Pixel 2: Blue
+    Pixel 3: Red
+    Pixel 4: Red
+    Pixel 5: Blue
+    Pixel 6: Red
+    Pixel 7: Red
+    Pixel 8: Blue
+    Pixel 9: Red
+* Render to the Hardware with `strip show` and send all stored color values from memory out to the physical LEDs at once.
+
+![pic](images/case01/4.png)
+
 
 MakeCode: [https://makecode.microbit.org/\_Rkv31xWpm3ae](https://makecode.microbit.org/_Rkv31xWpm3ae) 
 ![pic](images/case01/image124.png)<P>

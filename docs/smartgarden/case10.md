@@ -18,10 +18,12 @@ n8n is an automation tool designed for connecting AI models and IoT devices, ena
 
 After setting up the workflow with the data collection node and AI model node, it will connect to the internet and communicate with the AI model via an API key. The plant growth data collected by the node will be sent to the AI model, while the AI model will return the analysis result to n8n for generating a growth report.
 
+![pic](images/case10/flowchart.png)
+
 ## Part List
 <HR>
 
-![pic](images/case10/Case10.jpg)<P>
+![pic](images/Case10.jpg)<P>
 
 ## Assembly Steps
 
@@ -121,6 +123,7 @@ Remember to paste the URL enter the makecode block.
 * Source for Prompt(user Message): Click “ Define below ”  
 
 * Prompt ( user Message ): Paste the prompt:
+[https://drive.google.com/file/d/1UL2xUU6ygTd0o1xwyMi8QyNx5DtwzeOs/view?usp=drive_link](https://drive.google.com/file/d/1UL2xUU6ygTd0o1xwyMi8QyNx5DtwzeOs/view?usp=drive_link)
 
 ![pic](images/case10/image185.png)
 

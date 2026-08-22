@@ -24,7 +24,7 @@ The pot is mounted with three modules: temperature and humidity sensor, soil moi
 ## Part List
 <HR>
 
-![alt="auto_fit"](images/case05/Case5.jpg)<P>
+![alt="auto_fit"](images/Case5.jpg)<P>
 
 ## Assembly Steps
 
@@ -70,6 +70,40 @@ Connect the soil moisture sensor with a 3-pin module wire and put it into the so
 ## Programming (MakeCode)
 <HR>
 
+<span id="subtitle">Step 1:Initialize OLED, LCD, IoT:bit and connect to WiFi</span><BR><P>
+
+* Snap Initialize OLED with width:128, height: 64 to on start
+* Snap initialize LCD at I2C with connects and powers up the 16x2 LCD screen using the I2C communication protocol so it can display text.
+* Snap Set Wi-Fi to ssid pwd from IoT:bit
+* Enter your Wi-Fi name and password. Here we set smarthon as SSID and 12345678 as password
+
+![pic](images/case05/1.png)
+
+<span id="subtitle">Step 2: Read the data and set variable</span><BR><P>
+
+* In forever, put a if statement and use WiFi connect? as condition
+* Read the data by read temperature & humidity sensor at pin P0
+* Set four variables to get the value, which are temperature, humidity, soilMoisture and lightIntensity
+
+![pic](images/case05/2.png)
+
+<span id="subtitle">Step 3: Show the data on LCD at different position</span><BR><P>
+
+* Show the four variables respectively, with some text explanation
+* LCD show join Temp: temperature for temperature
+* LCD show join Humd: humidity for humidity
+* LCD show join Soil: soilMoisture for soil moisture
+* LCD show join Ligt: lightIntensity for light intensity
+
+![pic](images/case05/3.png)
+
+<span id="subtitle">Step 4: Upload to ThinkSpeak</span><BR><P>
+
+* Send the data to Thingspeak by Send Thingspeak key XXXX field1 value XXX ..., fill in the write API key from the Thingspeak channel and the values need to be upload
+* After uploading the data to Thingspeak, wait for 15 second to avoid upload too frequently by pause(ms) 15000, then start another Reading and uploading
+
+![pic](images/case05/4.png)
+
 MakeCode: [https://makecode.microbit.org/_LzThHDRXg3HC](https://makecode.microbit.org/_LzThHDRXg3HC)  
 ![pic](images/case05/image69.png)<P>
 
@@ -101,6 +135,4 @@ MakeCode: [https://makecode.microbit.org/_LzThHDRXg3HC](https://makecode.microbi
 ## Result
 <HR>
 
-![pic](images/case05/image50.gif)<P>
-
-![pic](images/case05/image191.png)<P>
+![pic](images/case05/case5_pointing_v3.gif)<P>

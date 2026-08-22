@@ -18,10 +18,12 @@ Blynk is a platform designed for creating Internet of Things (IoT) applications,
 
 After setting up the model with the water pump and soil moisture sensor, it will connect to the internet and communicate with Blynk via a token. The soil moisture level measured by the sensor will be sent to Blynk, while Blynk will send the switch signal to the model for controlling the water pump.
 
+![pic](images/case09/flowchart.png)
+
 ## Part List
 <HR>
 
-![auto_fit](images/case09/Case9.jpg)<P>
+![auto_fit](images/Case9.jpg)<P>
 
 ## Assembly Steps
 

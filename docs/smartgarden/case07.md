@@ -17,12 +17,14 @@ Each type of plant requires a different amount of light. Some need more sunlight
 
 Plants need consistent care, but people living in cities often lead busy lives and cannot tend to their plants every day. By using cloud control, users can monitor and manage lighting conditions remotely, ensuring their plants receive proper care even when they are away.
 
+![pic](images/case07/flowchart.png)
+
 
 
 ## Part List
 <HR>
 
-![auto_fit](images/case07/Case7.jpg)<P>
+![auto_fit](images/Case7.jpg)<P>
 
 ## Assembly Steps
 

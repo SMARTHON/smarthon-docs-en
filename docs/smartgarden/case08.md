@@ -18,11 +18,13 @@ In this case, we use a fog module to simulate the irrigation process.
 
 The board connects to the Wi-Fi and displays a tick signal when successful. When there are changes in the current weather conditions, the IFTTT applet will send a signal to the IoT board. After receiving the signal, the board will skip the next scheduled irrigation.
 
+![pic](images/case08/flowchart.png)
+
 
 ## Part List
 <HR>
 
-![auto_fit](images/case08/Case8.jpg)
+![auto_fit](images/Case8.jpg)
 
 
 ## Assembly Steps
