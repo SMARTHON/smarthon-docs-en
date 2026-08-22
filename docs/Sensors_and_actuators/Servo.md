@@ -49,15 +49,15 @@ For 360° Servo, the duty cycle range is different, and the meaning represent to
 
 
 ## Specification
-* Operating voltage: 4.8V (~5V) 
+* Operating voltage: 4.8V (~5V)
 * Weight: 9g
 * Operating speed: 0.1 sec / 60 degree
 * Stall torque: 1.8 kgfcm
 * Interface: PWM signal
 * PWM period: 20ms(50Hz)
-* Duty cycle: 500µs ~ 2400µs 
+* Duty cycle: 500µs ~ 2500µs
 * Operation degree: 0~180° (180° Servo) / N/A (360° Servo)
-* Temperature range: 0 ~ 55°C 
+* Temperature range: 0 ~ 55°C
 
 
 ## Pinout Diagram
@@ -87,7 +87,7 @@ If have "green variable resistor", that is 180° servo.
 
 ## Quick to Start/Sample
 
-* Connect the sensor to development board (direct plugin or using wire)
+* Connect the servo to development board (direct plugin or using wire)
 ![auto_fit](images/servo/servo_connect.png)<P>
 
 * Open Makecode, using the [https://github.com/smarthon/pxt-smarthome](https://github.com/smarthon/pxt-smarthome) PXT <P>
@@ -116,7 +116,3 @@ If you using 360° servo with the corresponding program, after the button B is p
 
 ## Datasheet
 [SG90](https://content.instructables.com/ORIG/FA2/O1SS/J7ARLNBW/FA2O1SSJ7ARLNBW.pdf)
-
-
-
-

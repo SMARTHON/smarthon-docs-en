@@ -51,11 +51,11 @@ Refer case 1, 6, 7, 12, 13
 
 **Scenario 3 Full Solution:**
 
-Radio Receiver [https://makecode.microbit.org/S20431-07803-42085-47300](https://makecode.microbit.org/S20431-07803-42085-47300)  
+Radio Receiver [https://makecode.microbit.org/S65873-10936-43674-66364](https://makecode.microbit.org/S65873-10936-43674-66364)  
 Radio Sender: [https://makecode.microbit.org/S64160-34853-74175-51999](https://makecode.microbit.org/S64160-34853-74175-51999) <BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S20431-07803-42085-47300"  width="100%" height="500" frameborder="0"></iframe><p><BR>
+<iframe src="https://makecode.microbit.org/S65873-10936-43674-66364"  width="100%" height="500" frameborder="0"></iframe><p><BR>
 
 <iframe src="https://makecode.microbit.org/#pub:S36162-88364-04373-85647"  width="100%" height="500" frameborder="0"></iframe><p>
 
@@ -108,9 +108,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S91848-23468-73545-76615](https://makecode.microbit.org/S91848-23468-73545-76615)<BR><P>
+MakeCode: [https://makecode.microbit.org/S38389-27987-24467-68230](https://makecode.microbit.org/S38389-27987-24467-68230)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S91848-23468-73545-76615"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S38389-27987-24467-68230"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -176,10 +176,10 @@ When the people are moving in the room, the motion sensor will trigger and keep 
 ![auto_fit](./images/Sc3/Sc3_p8.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S28592-29929-03023-97328](https://makecode.microbit.org/S28592-29929-03023-97328)<BR><P>
+MakeCode: [https://makecode.microbit.org/S05232-37132-45570-42534](https://makecode.microbit.org/S05232-37132-45570-42534)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S28592-29929-03023-97328" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S05232-37132-45570-42534" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -252,14 +252,14 @@ If it is the correct password, press the extended button, the door will open. Af
 ![auto_fit](./images/Sc3/Sc3_p12.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S64160-34853-74175-51999](https://makecode.microbit.org/S64160-34853-74175-51999)<BR><P>
+MakeCode: [https://makecode.microbit.org/S05585-05751-15532-17670](https://makecode.microbit.org/S05585-05751-15532-17670)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S64160-34853-74175-51999" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S05585-05751-15532-17670" width="100%" height="500" frameborder="0"></iframe><p>
 
 * Sender Part (Will only included in this part and the full program part only):
 
-MakeCode: [https://makecode.microbit.org/S64160-34853-74175-51999](https://makecode.microbit.org/S64160-34853-74175-51999)<BR><P>
+MakeCode: [https://makecode.microbit.org/#pub:S36162-88364-04373-85647](https://makecode.microbit.org/#pub:S36162-88364-04373-85647)<BR><P>
 
 You could also download the program from the following website:<BR>
 <iframe src="https://makecode.microbit.org/#pub:S36162-88364-04373-85647" width="100%" height="500" frameborder="0"></iframe><p>
@@ -374,10 +374,10 @@ When the press the button A and B, micro:bit sends the close message to group 1\
 ![auto_fit](./images/Sc3/Sc3_p17.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S52559-10558-83524-98456](https://makecode.microbit.org/S52559-10558-83524-98456)<BR><P>
+MakeCode: [https://makecode.microbit.org/S06122-94556-27353-58357](https://makecode.microbit.org/S06122-94556-27353-58357)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S52559-10558-83524-98456" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S06122-94556-27353-58357" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -425,10 +425,10 @@ After sending color messages from APPs, the color of light will change.
 ![auto_fit](./images/Sc3/Sc3_p19.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S20431-07803-42085-47300](https://makecode.microbit.org/S20431-07803-42085-47300)<BR><P>
+MakeCode: [https://makecode.microbit.org/S65873-10936-43674-66364](https://makecode.microbit.org/S65873-10936-43674-66364)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S20431-07803-42085-47300" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S65873-10936-43674-66364" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result:</span><p>
 

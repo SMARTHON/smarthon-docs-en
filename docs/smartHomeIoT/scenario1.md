@@ -50,10 +50,10 @@ Refer case 2, 4, 5, 6, 11
 **Scenario 1 Full Solution**
 
 MakeCode:
-[https://makecode.microbit.org/S76339-94624-90471-31742](https://makecode.microbit.org/S76339-94624-90471-31742)
+[https://makecode.microbit.org/S71769-02498-99476-06520](https://makecode.microbit.org/S71769-02498-99476-06520)
 <BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S76339-94624-90471-31742" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S71769-02498-99476-06520" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 <HR>
@@ -113,9 +113,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S83165-50446-71211-10149](https://makecode.microbit.org/S83165-50446-71211-10149)<BR><P>
+MakeCode: [https://makecode.microbit.org/S52578-37212-28320-44703](https://makecode.microbit.org/S52578-37212-28320-44703)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S83165-50446-71211-10149" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S52578-37212-28320-44703" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -160,10 +160,10 @@ When someone gets close to the door, either the distance sensor or motion sensor
 ![auto_fit](./images/Sc1/Sc1_p8.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S50805-91150-64544-90682](https://makecode.microbit.org/S50805-91150-64544-90682)<BR><P>
+MakeCode: [https://makecode.microbit.org/S05142-01885-82777-32703](https://makecode.microbit.org/S05142-01885-82777-32703)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S50805-91150-64544-90682" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S05142-01885-82777-32703" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -217,10 +217,10 @@ When the water level rises to the crocodile clip’s position, the warning sound
 ![auto_fit](./images/Sc1/Sc1_p12.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S37620-61148-23498-84097](https://makecode.microbit.org/S37620-61148-23498-84097)<BR><P>
+MakeCode: [https://makecode.microbit.org/S36960-31147-81691-11464](https://makecode.microbit.org/S36960-31147-81691-11464)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S37620-61148-23498-84097" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S36960-31147-81691-11464" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -285,10 +285,10 @@ When the door is opened for more than 1 minute, the buzzer will play some sound 
 ![auto_fit](./images/Sc1/Sc1_p16.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S14641-94865-24076-73126](https://makecode.microbit.org/S14641-94865-24076-73126)<BR><P>
+MakeCode: [https://makecode.microbit.org/S91688-09704-06824-41822](https://makecode.microbit.org/S91688-09704-06824-41822)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S14641-94865-24076-73126"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S91688-09704-06824-41822"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -384,10 +384,10 @@ If it is the correct password, press the extended button, the door will open. Af
 ![auto_fit](./images/Sc1/Sc1_p23.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S76339-94624-90471-31742](https://makecode.microbit.org/S76339-94624-90471-31742)<BR><P>
+MakeCode: [https://makecode.microbit.org/S71769-02498-99476-06520](https://makecode.microbit.org/S71769-02498-99476-06520)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S76339-94624-90471-31742"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S71769-02498-99476-06520"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result:</span><p>
 

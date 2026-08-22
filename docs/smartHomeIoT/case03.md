@@ -46,7 +46,7 @@ Attach OLED Display to the Model E4 using M2 * 10mm screws and nuts.
 ![pic](images/Case3/Case3_ass4.png)<P>
 
 <span id="subtitle">Step 5</span><P>
-Attach motor fan to the Model F using M4 * 10mm screws and nuts. And the connecting wire could be bended to the hole next to it.
+Attach motor fan to the Model F using M4 * 10mm screws and nuts. And the connecting wire could be banded to the hole next to it.
 <BR><P>
 ![pic](images/Case3/Case3_ass5.png)<P>
 <span id="subtitle">Step 6</span><P>

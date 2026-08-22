@@ -50,11 +50,11 @@ Refer case 5,7,8,9,10
 ## Programming (MakeCode):
 <HR>
 
-**Scenario 3 Full Solution**
+**Scenario 3 Full Solution** 
 
-MakeCode: [https://makecode.microbit.org/16876-57308-88647-06271](https://makecode.microbit.org/16876-57308-88647-06271)<BR><P>
+MakeCode: [https://makecode.microbit.org/S91634-71734-12728-39759](https://makecode.microbit.org/S91634-71734-12728-39759)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/16876-57308-88647-06271" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S91634-71734-12728-39759" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 
@@ -102,9 +102,7 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S08334-56214-27815-93357](https://makecode.microbit.org/S08334-56214-27815-93357)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S08334-56214-27815-93357"width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S63263-86306-68649-96026](https://makecode.microbit.org/S63263-86306-68649-96026)<BR><P>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -215,12 +213,10 @@ It will keep checking the distance of cars from distance sensor by distance sens
 
 <span id="subtitle">Part 2 Full Solution:</span><p>
 
+MakeCode: [https://makecode.microbit.org/S09222-44762-66139-55119](https://makecode.microbit.org/S09222-44762-66139-55119)<BR>
 ![auto_fit](./images/Sc3/Sc3_p14.png)<p>
-MakeCode: [https://makecode.microbit.org/S77055-47262-47956-56848](https://makecode.microbit.org/S77055-47262-47956-56848)<BR><P>
-You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/S77055-47262-47956-56848"width="100%" height="500" frameborder="0"></iframe>
-<p>
+
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -269,12 +265,8 @@ Once the light intensity is too low, it indicates that there is a traffic jam on
 ![pic_60](./images/Sc3/Sc3_p16.png)<p>
 
 <span id="subtitle">Part 3 Full Solution:</span><p>
-![auto_fit](./images/Sc3/Sc3_p17.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S35003-46585-93313-79082](https://makecode.microbit.org/S35003-46585-93313-79082)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S35003-46585-93313-79082" width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S75008-91299-18452-37655](https://makecode.microbit.org/S75008-91299-18452-37655)<BR>![auto_fit](./images/Sc3/Sc3_p17.png)<p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -344,12 +336,10 @@ The micro:bit is controlled by IFTTT (trigger by date&time). The LED light will 
 
 <span id="subtitle">Part 4 Full Solution:</span><p>
 
+
+MakeCode: [https://makecode.microbit.org/S34958-32811-58707-91815](https://makecode.microbit.org/S34958-32811-58707-91815)<BR>
 ![auto_fit](./images/Sc3/Sc3_p22.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S04257-89623-17473-32946](https://makecode.microbit.org/S04257-89623-17473-32946)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S04257-89623-17473-32946" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -414,11 +404,8 @@ When WiFi is connected, if there are any suspicious movement near the door, the 
 
 <span id="subtitle">Part 5 Full Solution:</span><p>
 
+MakeCode: [https://makecode.microbit.org/S91634-71734-12728-39759](https://makecode.microbit.org/S91634-71734-12728-39759)<BR>
 ![auto_fit](./images/Sc3/Sc3_p25.png)<p>
-
-MakeCode: [https://makecode.microbit.org/16876-57308-88647-06271](https://makecode.microbit.org/16876-57308-88647-06271)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/16876-57308-88647-06271" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result</span><p>
 

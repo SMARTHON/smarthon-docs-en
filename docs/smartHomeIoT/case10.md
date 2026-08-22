@@ -50,13 +50,13 @@ Put the model E4 & E1 onto model A, align with holes at model A, B2 and B3.
 ![pic_90](images/Case10/Case10_ass2.png)<P>
 
 <span id="subtitle">Step 3</span><BR><P>
-Attach the OLED display onto model E4 using M4 * 10mm screws and nuts.<P>
+Attach the OLED display onto model E4 using M2 * 10mm screws and nuts.<P>
 
 ![pic_90](images/Case10/Case10_ass3.png)<P>
 
 
 <span id="subtitle">Step 4</span><BR><P>
-Attach the DHT11 temperature and humidity sensor onto model E4 using M2 * 10mm screws and nuts. And the connecting wire should be bended to the hole below it.<P>
+Attach the DHT11 temperature and humidity sensor onto model E4 using M4 * 10mm screws and nuts. And the connecting wire should be bended to the hole below it.<P>
 
 ![pic_80](images/Case10/Case10_ass4.png)<P>
 
@@ -140,7 +140,7 @@ Assembly Completed!<P>
 3. `Set iaq_score to Get IAQ Score` for iaq_score
 ![auto_fit](images/Case10/Case10_p6.png)<P>
 
-<span id="subtitle">Step 4. Show the data on display</span><BR><P>
+<span id="subtitle">Step 5. Show the data on display</span><BR><P>
 * Clear the display before each times update by `clear OLED display`
 * Show the three variables respectively, with some text explanation 
 1. `show string join Temperature: temperature` for temperature
@@ -148,19 +148,19 @@ Assembly Completed!<P>
 3. `show string Join IAQ Score: iaq_score` for iaq_score
 ![auto_fit](images/Case10/Case10_p7.png)<P>
 
-<span id="subtitle">Step 5. Analyst the environment status</span><BR><P>
+<span id="subtitle">Step 6. Analyst the environment status</span><BR><P>
 * Run the `check_condition` function to summarize the IAQ Score result
 
 ![auto_fit](images/Case10/Case10_p8.png)<P>
 
-<span id="subtitle">Step 6. Upload to Thingspeak</span><BR><P>
+<span id="subtitle">Step 7. Upload to Thingspeak</span><BR><P>
 * Send the data to Thingspeak by `Send Thingspeak key XXXX field1 value XXX ...`, fill in the `write API key` from the Thingspeak channel and the `values` need to be upload
 * After uploading the data to Thingspeak, wait for 15 second to avoid upload too frequently by `pause(ms) 15000`, then start another Reading and uploading.
 
 ![auto_fit](images/Case10/Case10_p9.png)<P>
 
 
-<span id="subtitle">Step 7. Check Thingspeak upload status</span><BR><P>
+<span id="subtitle">Step 8. Check Thingspeak upload status</span><BR><P>
 * To check the uploading status, use `On thingspeak Uploaded` to get the uploading result
 * `Insert newline` for better visual effect
 * Use the `Status` and `Error_code` from block placeholder respectively to showing some text explanation

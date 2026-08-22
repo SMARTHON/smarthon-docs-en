@@ -51,10 +51,10 @@ Refer case 2, 4, 6, 7, 10
 
 **Scenario 1 Full Solution**
 
-MakeCode: [https://makecode.microbit.org/S19945-42349-53404-83463](https://makecode.microbit.org/S19945-42349-53404-83463)
-<BR><P>
+MakeCode: [https://makecode.microbit.org/_TebTk2F9vHp5](https://makecode.microbit.org/_TebTk2F9vHp5)
+<BR>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S19945-42349-53404-83463" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/_TebTk2F9vHp5" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 
@@ -106,9 +106,7 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S24820-05059-97092-01663](https://makecode.microbit.org/S24820-05059-97092-01663)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S24820-05059-97092-01663"width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S59145-25073-29393-77386](https://makecode.microbit.org/S59145-25073-29393-77386)<BR><P>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -150,12 +148,9 @@ The car park gate is controlled by 180ᵒ servo. When there are vacancies in the
 ![pic_60](./images/Sc1/Sc1_p10.png)<p>
 <span id="subtitle">Part 2 Full Solution:</span><p>
 
-![auto_fit](./images/Sc1/Sc1_p11.png)<p>
-MakeCode: [https://makecode.microbit.org/S44314-69730-93926-05553](https://makecode.microbit.org/#pub:S44314-69730-93926-05553)<BR><P>
-You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/#pub:S44314-69730-93926-05553"width="100%" height="500" frameborder="0"></iframe>
-<p>
+MakeCode: [https://makecode.microbit.org/S98195-10811-20908-50606](https://makecode.microbit.org/S98195-10811-20908-50606)<BR>
+![auto_fit](./images/Sc1/Sc1_p11.png)<p>
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -170,7 +165,7 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 
 * Connect the Raindrop Sensor to P3 port of IoT:bit.
 
-![pic_80](./images/Sc1/Sc1_p12.png)<p>
+![pic_80](./images/Sc1/3.png)<p>
 
 <span id="subtitle">3.2 IOT Setup (ThingSpeak)</span><p>
 
@@ -248,12 +243,10 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 
 ![pic_60](./images/Sc1/Sc1_p23.png)<p>
 <span id="subtitle">Part 3 Full Solution:</span><p>
+
+
+MakeCode: [https://makecode.microbit.org/S47856-75323-13582-31582](https://makecode.microbit.org/S47856-75323-13582-31582)<BR>
 ![auto_fit](./images/Sc1/Sc1_p24.png)<p>
-
-MakeCode: [https://makecode.microbit.org/S56225-17199-07352-27271](https://makecode.microbit.org/S56225-17199-07352-27271)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S56225-17199-07352-27271" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -267,7 +260,7 @@ When micro:bit is connected to WiFi, it will check weather information (temperat
 
 * Connect the Motion Sensor to P1 port of IoT:bit.
 
-![pic_80](./images/Sc1/Sc1_p25.png)<p>
+![pic_80](./images/Sc1/4.png)<p>
 
 <span id="subtitle">4.2 IOT Setup (IFTTT)</span><p>
 
@@ -298,12 +291,9 @@ When micro:bit is connected to WiFi, it will check weather information (temperat
 ![pic_60](./images/Sc1/Sc1_p29.png)<p>
 <span id="subtitle">Part 4 Full Solution:</span><p>
 
+
+MakeCode: [https://makecode.microbit.org/S90910-59630-39472-35454](https://makecode.microbit.org/S90910-59630-39472-35454)<BR>
 ![auto_fit](./images/Sc1/Sc1_p30.png)<p>
-
-MakeCode: [https://makecode.microbit.org/S05163-15392-66954-27282](https://makecode.microbit.org/S05163-15392-66954-27282)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S05163-15392-66954-27282" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -353,11 +343,9 @@ When WiFi is connected, if there is any suspicious movement near the door, an em
 
 <span id="subtitle">Part 5 Full Solution:</span><p>
 
-![auto_fit](./images/Sc1/Sc1_p36.png)<p>
+MakeCode:[https://makecode.microbit.org/S69393-71543-69016-43843](https://makecode.microbit.org/S69393-71543-69016-43843)<BR>
 
-MakeCode: [https://makecode.microbit.org/S19945-42349-53404-83463](https://makecode.microbit.org/S19945-42349-53404-83463)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S19945-42349-53404-83463" width="100%" height="500" frameborder="0"></iframe><p>
+![auto_fit](./images/Sc1/Sc1_p36.png)<p>
 
 <span id="subtitle">Part 5 Result</span><p>
 

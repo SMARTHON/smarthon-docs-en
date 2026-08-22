@@ -85,7 +85,7 @@ You could also download the program from the following website:<BR>
 ### Result
 <HR>
 
-Light sensor is used to detect if there are traffic jam. Once the light intensity is not low, it indicates that there is a traffic jam on the road. Wi-Fi message “nojam” will be sent to another micro:bit (receiver).<BR><P>
+Light sensor is used to detect if there are traffic jam. Once the light intensity is not low, it indicates that there is no traffic jam on the road. Wi-Fi message “nojam” will be sent to another micro:bit (receiver).<BR><P>
 ![auto_fit](images/Case8/Case8a_result1.png)<P>
 Once the light intensity is too low, it indicates that there is a traffic jam on the road. Wi-Fi message “trafficjam” will be sent to another micro:bit (receiver).<BR><P>
 ![auto_fit](images/Case8/Case8a_result2.png)<P>

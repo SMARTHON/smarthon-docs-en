@@ -141,7 +141,7 @@ Place the sofa at the living room.<BR><P>
 ![pic_90](images/Case7/Case7_ass7.png)<P>
 
 <span id="subtitle">Step 8</span><P>
-Put the model H as a decroration display on model B3.
+Put the model H as a decoration display on model B3.
 <BR><P>
 
 ![pic_90](images/Case7/Case7_ass8.png)<P>

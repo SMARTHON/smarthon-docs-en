@@ -44,7 +44,7 @@ Put the model D2 on the holes of model A, and then insert it to model D1 and D3.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass4_new.png)<P>
 <span id="subtitle">Step 5</span><BR><P>
-Add the 4 rubber bends to the model D2 so that the house will not loose.
+Add the 4 rubber bands to the model D2 so that the house will not loose.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass5_new.png)<P>
 <span id="subtitle">Step 6</span><BR><P>
@@ -56,7 +56,7 @@ Completed.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass7_new.png)<P>
 <span id="subtitle">Step 8</span><BR><P>
-Attach motion sensor to the model B1 (near the door) using M4 * 10mm screws and nuts. And the connecting wire should be bended to the hole above it.
+Attach motion sensor to the model B1 (near the door) using M4 * 10mm screws and nuts. And the connecting wire should be banded to the hole above it.
 <BR><P>
 ![auto_fit](images/Case2/Case2_ass8_new.png)<P>
 <span id="subtitle">Step 9</span><BR><P>

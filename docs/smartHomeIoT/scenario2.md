@@ -48,10 +48,10 @@ Refer case 1, 3, 8, 9, 10
 
 **Scenario 2 Full Solution**
 
-MakeCode:[https://makecode.microbit.org/S31444-88251-08340-82622](https://makecode.microbit.org/S31444-88251-08340-82622)
-<BR><P>
+MakeCode:[https://makecode.microbit.org/S14842-58058-86552-65573](https://makecode.microbit.org/S14842-58058-86552-65573)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S31444-88251-08340-82622" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S14842-58058-86552-65573
+" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 <HR>
@@ -88,9 +88,9 @@ You could also download the program from the following website:<BR>
 
 <span id="subtitle">Part 1 Solution:</span><P>
 
-MakeCode: [https://makecode.microbit.org/S67597-06994-09827-41378](https://makecode.microbit.org/S67597-06994-09827-41378)<BR><P>
+MakeCode: [https://makecode.microbit.org/S72095-80943-68951-27281](https://makecode.microbit.org/S72095-80943-68951-27281)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S67597-06994-09827-41378"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S72095-80943-68951-27281"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -140,10 +140,10 @@ When the people are moving in the room, the motion sensor will trigger and keep 
 ![auto_fit](./images/Sc2/Sc2_p8.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S59001-01262-04832-24774](https://makecode.microbit.org/S59001-01262-04832-24774)<BR><P>
+MakeCode: [https://makecode.microbit.org/S30790-96095-60039-02609](https://makecode.microbit.org/S30790-96095-60039-02609)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S59001-01262-04832-24774" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S30790-96095-60039-02609" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 2 Result</span><p>
 
@@ -203,10 +203,10 @@ When the room temperature changing, it will match either one of the condition, a
 ![auto_fit](./images/Sc2/Sc2_p13.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S38422-14632-22920-00821](https://makecode.microbit.org/S38422-14632-22920-00821)<BR><P>
+MakeCode: [https://makecode.microbit.org/S39701-44848-84975-85117](https://makecode.microbit.org/S39701-44848-84975-85117)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S38422-14632-22920-00821" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S39701-44848-84975-85117" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -272,10 +272,10 @@ When the light sensor detects the light value outside the house is strong, the s
 ![auto_fit](./images/Sc2/Sc2_p17.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S93146-08634-07427-32789](https://makecode.microbit.org/S93146-08634-07427-32789)<BR><P>
+MakeCode: [https://makecode.microbit.org/S14408-88777-96261-02957](https://makecode.microbit.org/S14408-88777-96261-02957)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S93146-08634-07427-32789" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S14408-88777-96261-02957" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -361,10 +361,10 @@ After you connected to the Internet, the micro bit will open an start getting NT
 ![auto_fit](./images/Sc2/Sc2_p24.png)
 <p>
 
-MakeCode: [https://makecode.microbit.org/S31444-88251-08340-82622](https://makecode.microbit.org/S31444-88251-08340-82622)<BR><P>
+MakeCode: [https://makecode.microbit.org/S14842-58058-86552-65573](https://makecode.microbit.org/S14842-58058-86552-65573)<BR><P>
 
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S31444-88251-08340-82622"width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/S14842-58058-86552-65573"width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 5 Result:</span><p>
 

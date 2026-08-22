@@ -62,7 +62,7 @@ Input Channel name, Field1 and Field2 , then click “Save Channel”<BR><P>
 * Channel name: Smart Weather Station
 * Field 1: temperature
 * Field 2: humidity
-* Freld 3: raindrop
+* Field 3: raindrop
 
 
 <span id="subtitle"> Step 3</span><BR><P>

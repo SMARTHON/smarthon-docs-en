@@ -50,9 +50,9 @@ Refer case 1, 3, 4, 6, 11
 
 **Scenario 2 Full Solution**
 
-MakeCode: [https://makecode.microbit.org/S10997-44950-58001-92887](https://makecode.microbit.org/S10997-44950-58001-92887)<BR><P>
+MakeCode: [https://makecode.microbit.org/_5MELAddqKFdL](https://makecode.microbit.org/_5MELAddqKFdL)<BR><P>
 You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S10997-44950-58001-92887" width="100%" height="500" frameborder="0"></iframe><p>
+<iframe src="https://makecode.microbit.org/_5MELAddqKFdL" width="100%" height="500" frameborder="0"></iframe><p>
 
 ## Step By Step Tutorial
 
@@ -91,10 +91,7 @@ You could also download the program from the following website:<BR>
 ![pic_60](./images/Sc2/Sc2_p3.png)<p>
 
 <span id="subtitle">Part 1 Solution:</span><P>
-
-MakeCode: [https://makecode.microbit.org/S32308-54803-46974-09601](https://makecode.microbit.org/S32308-54803-46974-09601)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S32308-54803-46974-09601"width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S90498-88927-05561-81832](https://makecode.microbit.org/S90498-88927-05561-81832)<BR>
 
 <span id="subtitle">Part 1 Result</span><P>
 
@@ -139,11 +136,10 @@ Motion sensor is used to detect if there are people moving in the playground. If
 ![pic_60](./images/Sc2/Sc2_p7.png)<p>
 <span id="subtitle">Part 2 Full Solution:</span><p>
 
+MakeCode: [https://makecode.microbit.org/S87122-76170-30584-59327](https://makecode.microbit.org/S87122-76170-30584-59327)<BR>
 ![auto_fit](./images/Sc2/Sc2_p8.png)<p>
-MakeCode: [https://makecode.microbit.org/S11125-04320-32632-56768](https://makecode.microbit.org/S11125-04320-32632-56768)<BR><P>
-You could also download the program from the following website:<BR>
 
-<iframe src="https://makecode.microbit.org/S11125-04320-32632-56768"width="100%" height="500" frameborder="0"></iframe>
+
 <p>
 
 <span id="subtitle">Part 2 Result</span><p>
@@ -185,12 +181,8 @@ The distance sensor can return the distance value between the top of the garbage
 ![pic_60](./images/Sc2/Sc2_p12.png)<p>
 
 <span id="subtitle">Part 3 Full Solution:</span><p>
-![auto_fit](./images/Sc2/Sc2_p13.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S70644-81837-11897-43408](https://makecode.microbit.org/S70644-81837-11897-43408)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S70644-81837-11897-43408" width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S76841-89167-65801-05922](https://makecode.microbit.org/S76841-89167-65801-05922)<BR>![auto_fit](./images/Sc2/Sc2_p13.png)<p>
 
 <span id="subtitle">Part 3 Result</span><p>
 
@@ -250,12 +242,9 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 ![pic_60](./images/Sc2/Sc2_p19.png)<p>
 <span id="subtitle">Part 4 Full Solution:</span><p>
 
+
+MakeCode: [https://makecode.microbit.org/S87867-33861-19619-02547](https://makecode.microbit.org/S87867-33861-19619-02547)<BR>
 ![auto_fit](./images/Sc2/Sc2_p20.png)<p>
-
-MakeCode: [https://makecode.microbit.org/S73413-37224-90674-07209](https://makecode.microbit.org/S73413-37224-90674-07209)<BR><P>
-You could also download the program from the following website:<BR>
-
-<iframe src="https://makecode.microbit.org/S73413-37224-90674-07209" width="100%" height="500" frameborder="0"></iframe><p>
 
 <span id="subtitle">Part 4 Result</span><p>
 
@@ -327,11 +316,9 @@ When micro:bit is connected to WiFi, it will check weather information (temperat
 
 <span id="subtitle">Part 5 Full Solution:</span><p>
 
-![auto_fit](./images/Sc2/Sc2_p28.png)<p>
 
-MakeCode: [https://makecode.microbit.org/S10997-44950-58001-92887](https://makecode.microbit.org/S10997-44950-58001-92887)<BR><P>
-You could also download the program from the following website:<BR>
-<iframe src="https://makecode.microbit.org/S10997-44950-58001-92887" width="100%" height="500" frameborder="0"></iframe><p>
+MakeCode: [https://makecode.microbit.org/S06595-07893-58239-46250](https://makecode.microbit.org/S06595-07893-58239-46250)<BR>
+![auto_fit](./images/Sc2/Sc2_p28.png)<p>
 
 <span id="subtitle">Part 5 Result</span><p>
 
