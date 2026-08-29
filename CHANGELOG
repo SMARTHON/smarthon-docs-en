@@ -77,3 +77,9 @@ Version 1.92 (2026-08-22)
 Version 2.0 (2026-08-22)
 - Merge 1.8_quick_fix2 into master branch
 - Merge quick_fix into master branch
+
+Version 2.1 (2026-08-29)
+- Merge city_basic_kit into master branch
+- Add basic bit, add hidden smart city basic kit
+- Fix add extension with keyword
+- Add thingspeak demo account to city and home related scenario
