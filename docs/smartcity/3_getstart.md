@@ -12,8 +12,8 @@ Give the project a name<BR><P>
 Click "![icon](images/3_Getstart/icon_more.png)" and choose "Extensions" in the pull-down menu<BR><P>
 ![auto_fit](images/3_Getstart/getstart03.png)<BR><P>
 <span id="subtitle">Step 4</span><BR><P>
-Search "[https://github.com/smarthon/pxt-smartcity](https://github.com/smarthon/pxt-smartcity)" and click “smartcity”
-![auto_fit](images/3_Getstart/getstart04.png)<P>
+Search "smarthon" and click “smartcity”
+![auto_fit](images/1.png)<P>
 <span id="subtitle">Step 5</span><BR><P>
 Extension `SmartCity` & `WiFi IoT:bit` package has been added successfully.<BR><P>
 ![auto_fit](images/3_Getstart/getstart05.png)<P>

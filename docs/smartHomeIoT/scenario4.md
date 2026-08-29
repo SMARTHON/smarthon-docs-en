@@ -138,7 +138,7 @@ After you connect to the Internet, the tick will open and start getting NTP time
 
 **Step 1\. Create Thingspeak channel**
 
-* Go the ThingSpeak create an account and create a channel.  
+* Go the ThingSpeak create an account and create a channel. <p>
     
 ![auto_fit](./images/Sc4/Sc4_iot1.jpg)
 <p>

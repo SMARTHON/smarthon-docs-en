@@ -43,7 +43,7 @@ Refer case 1, 3, 4, 6, 11
 * Extend the connection of OLED to I2C connection port of IoT:bit.
 * Connect the White LED on P7 port of IoT:bit.
 
-![pic_80](./images/Sc2/Sc2_final_ware.png)
+![pic_80](./images/Sc2/Sc2_final_ware1.png)
 
 ## Programming (MakeCode):
 <HR>
@@ -202,7 +202,7 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 
 **Step 1**
 
-* Go to [https://thingspeak.com](https://thingspeak.com), create an account and login.
+* Go to [https://thingspeak.com](https://thingspeak.com), create an account and login.<p>
 
 ![pic_80](./images/Sc2/Sc2_p15.png)<p>
 
@@ -225,6 +225,12 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 * Select your channel > “API Keys”, copy the API key as follows:
 
 ![pic_80](./images/Sc2/Sc2_p17.png)<p>
+
+**Remarks**
+
+* You can use the link and API key below to check the status:<p>
+Link: [https://thingspeak.mathworks.com/channels/3131402](https://thingspeak.mathworks.com/channels/3131402)<p>
+API : KY9SJGCBP93VC3R7
 
 <span id="subtitle">4.3 Programming (MakeCode)</span><p>
 

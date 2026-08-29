@@ -12,8 +12,8 @@ Give the project a name<BR><P>
 Click "![icon](images/GetStart/icon_more.png)" and choose "Extensions" in the pull-down menu<BR><P>
 ![auto_fit](images/GetStart/getstart03.png)<BR><P>
 <span id="subtitle">Step 4</span><BR><P>
-Search "[https://github.com/smarthon/pxt-smarthome](https://github.com/smarthon/pxt-smarthome)" and click “smarthome”
-![auto_fit](images/GetStart/getstart04.png)<P>
+Search "smarthon" and click “smarthome”
+![auto_fit](images/1.png)<P>
 <span id="subtitle">Step 5</span><BR><P>
 Extension `SmartHome` & `IoT:bit` package has been added successfully.<BR><P>
 ![auto_fit](images/GetStart/getstart05.png)<P>

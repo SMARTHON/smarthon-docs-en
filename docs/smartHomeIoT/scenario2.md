@@ -289,7 +289,7 @@ After you connected to the Internet, the micro bit will open an start getting NT
 
 <span id="subtitle">5.1 IOT Setup (IFTTT)</span><p>
 
-* Go the https://thingspeak.com/ create an account and create a channel.
+* Go the https://thingspeak.com/ create an account and create a channel.<p> 
    
 ![auto_fit](./images/Sc2/Sc2_iot1.png)
 <p>
@@ -298,6 +298,10 @@ After you connected to the Internet, the micro bit will open an start getting NT
      
 ![auto_fit](./images/Sc2/Sc2_iot2.png)
 <p>
+
+* You can use the link and API key below to check the status:<p>
+* Link: [https://thingspeak.mathworks.com/channels/3131428](https://thingspeak.mathworks.com/channels/3131428)<p>
+* API : SSSDNOS6I2KSFKL8
 
 <span id="subtitle">5.2 Programming (MakeCode)</span><p>
 

@@ -171,7 +171,7 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 
 **Step 1**
 
-* Go to [https://thingspeak.com](https://thingspeak.com), create an account and login.
+* Go to [https://thingspeak.com](https://thingspeak.com), create an account and login.<p>
 
 ![pic_60](./images/Sc1/Sc1_p13.png)<p>
 **Step 2**
@@ -192,6 +192,12 @@ After initializing WiFi extension board and OLED, micro:bit will show a bar grap
 * Select your channel &gt; “API Keys” ，copy the API key as follows:
 
 ![pic_60](./images/Sc1/Sc1_p15.png)<p>
+
+**Remarks**
+
+* You can use the link and API key below to check the status:<p>
+Link: [https://thingspeak.mathworks.com/channels/3131363](https://thingspeak.mathworks.com/channels/3131363)<p>
+API : AURM35TFIMJE5JSU
 
 <span id="subtitle">3.3 Programming (MakeCode)</span><p>
 
